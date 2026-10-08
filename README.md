@@ -48,7 +48,6 @@ This repository contains **38+ curated entries** organized into individual folde
 | `ElectronicArts_EA_AI_FullStack_Intern_CentralTech_Hyderabad_2026-10-05/` | SWE Intern (AI Full Stack) | Hyderabad |
 | `ElectronicArts_EA_SWE_Intern_SlingshotStudios_Hyderabad_2026-10-03/` | SWE Intern (Slingshot Studios) | Hyderabad |
 | `IDFCFIRSTBank_BackendEngineer_AI_Bengaluru_2026-10-06/` | Backend Engineer (AI Labs) | Bengaluru |
-| `IDFC_FIRST_Bank_ApplicationEngineer_Multi-Location_2026-10-07/` | Application Engineer (2-5 yrs) | Multi-city |
 | `JUSPAY_BackendSDE_Bangalore_2026-10-08/` | SDE Backend (Haskell / payments) | Bengaluru |
 | `NatWest_Group_EarlyTalent_Bengaluru_2026-10-03/` | Early Talent Programme | Bengaluru |
 | `Rubrik_WinterIntern_SDE_Bengaluru_2026-10-05/` | Winter Intern (SDE) | Bengaluru |
