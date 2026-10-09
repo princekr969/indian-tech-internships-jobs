@@ -3,6 +3,8 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2028 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
+> 🕒 **Last sync:** 9 Oct 2026, 5:55 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+
 [![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026%20%C3%97%205%3A53%20AM%20IST-blue)](https://github.com/your-username/your-repo)
 [![Entries](https://img.shields.io/badge/entries-39%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2028-orange)](.)
@@ -200,7 +202,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 9 Oct 2026, 5:53 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 9 Oct 2026, 5:55 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
