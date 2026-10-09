@@ -1,13 +1,13 @@
 # Indian Tech Internships & Jobs — Open Opportunities Library
 
-> **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2028 batches).**
+> **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 9 Oct 2026, 6:43 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 9 Oct 2026, 10:12 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026%20%C3%97%206%3A43%20AM%20IST-blue)](https://github.com/your-username/your-repo)
-[![Entries](https://img.shields.io/badge/entries-40%2B-green)](.)
-[![Batches](https://img.shields.io/badge/batches-2027%20%E2%86%92%2029-orange)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026%20%C3%97%2010%3A12%20AM%20IST-blue)](https://github.com/your-username/your-repo)
+[![Entries](https://img.shields.io/badge/entries-41%2B-green)](.)
+[![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 
 ---
@@ -86,6 +86,7 @@ This repository contains **39+ curated entries** organized into individual folde
 | `NinjaVan_SWEIntern_Hyderabad_2026-10-09/` | SWE Intern (logistics platform) | Hyderabad |
 | `NatWest_Group_EarlyTalent_Bengaluru_2026-10-03/` | Early Talent Programme | Bengaluru |
 | `Rubrik_WinterIntern_SDE_Bengaluru_2026-10-05/` | Winter Intern (SDE) | Bengaluru |
+| `SelahDigital_FullStackSWEIntern_Bangalore_2026-10-09/` | Full Stack SWE Intern (AI-native role) | Bengaluru |
 | `SkillsCapital_SWE_Intern_AI_ML_AgenticAI_RemoteIndia_2026-10-03/` | SWE Intern (AI/ML/Agentic AI) | Remote India |
 | `Trimble_SoftwareEngineer_Chennai_2026-10-03/` | Software Engineer | Chennai |
 | `Visa_SWE_FullStack_Bengaluru_2026-10-08/` | SWE (Full Stack) | Bengaluru |
@@ -172,9 +173,9 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **40+** |
-| Companies covered | **32+** |
-| Internship roles | **20+** |
+| Total curated entries | **41+** |
+| Companies covered | **33+** |
+| Internship roles | **21+** |
 | Full-time roles (FTE) | **8+** |
 | Hackathons / competitions | **9+** |
 | Master lists / bundles | **6** |
@@ -234,7 +235,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 9 Oct 2026, 6:43 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 9 Oct 2026, 10:12 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
