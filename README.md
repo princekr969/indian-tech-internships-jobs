@@ -3,8 +3,8 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2028 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-8%20Oct%202026-blue)](https://github.com/your-username/your-repo)
-[![Entries](https://img.shields.io/badge/entries-38%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026-blue)](https://github.com/your-username/your-repo)
+[![Entries](https://img.shields.io/badge/entries-39%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2028-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 
@@ -43,6 +43,7 @@ This repository contains **38+ curated entries** organized into individual folde
 | Folder | Role | Location |
 |---|---|---|
 | `AEREO_BackendSWEIntern_Bangalore_2026-10-07/` | Backend SWE Intern (drone + geospatial SaaS) | Bengaluru |
+| `AngelOne_SDEIntern_Bangalore_2026-10-09/` | SDE Intern (real-time fintech + AI) | Bengaluru |
 | `CloudSEK_SDE_Intern_Frontend_Bengaluru_2026-10-03/` | SDE Intern (Frontend) | Bengaluru |
 | `Commure_SoftwareEngineer_Bengaluru_2026-10-06/` | Software Engineer (0-2 yrs, US healthcare) | Bengaluru |
 | `ElectronicArts_EA_AI_FullStack_Intern_CentralTech_Hyderabad_2026-10-05/` | SWE Intern (AI Full Stack) | Hyderabad |
@@ -137,9 +138,9 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **38+** |
-| Companies covered | **30+** |
-| Internship roles | **18+** |
+| Total curated entries | **39+** |
+| Companies covered | **31+** |
+| Internship roles | **19+** |
 | Full-time roles (FTE) | **8+** |
 | Hackathons / competitions | **9+** |
 | Master lists / bundles | **6** |
@@ -199,7 +200,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 8 Oct 2026 · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 9 Oct 2026 · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
