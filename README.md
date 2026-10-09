@@ -3,11 +3,11 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2028 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 9 Oct 2026, 5:55 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 9 Oct 2026, 6:43 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026%20%C3%97%205%3A53%20AM%20IST-blue)](https://github.com/your-username/your-repo)
-[![Entries](https://img.shields.io/badge/entries-39%2B-green)](.)
-[![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2028-orange)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026%20%C3%97%206%3A43%20AM%20IST-blue)](https://github.com/your-username/your-repo)
+[![Entries](https://img.shields.io/badge/entries-40%2B-green)](.)
+[![Batches](https://img.shields.io/badge/batches-2027%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 
 ---
@@ -18,6 +18,7 @@
 | Company | Role | Stipend / CTC | Location |
 |---|---|---|---|
 | **[Angel One](AngelOne_SDEIntern_Bangalore_2026-10-09/)** | SDE Intern | **₹50K – ₹80K/mo** + PPO | Bengaluru (Hybrid) |
+| **[Ninja Van](NinjaVan_SWEIntern_Hyderabad_2026-10-09/)** | SWE Intern (logistics platform) | Not disclosed | Hyderabad |
 
 ### 📅 8 Oct 2026 (Thu)
 | Company | Role | Stipend / CTC | Location |
@@ -82,6 +83,7 @@ This repository contains **39+ curated entries** organized into individual folde
 | `ElectronicArts_EA_SWE_Intern_SlingshotStudios_Hyderabad_2026-10-03/` | SWE Intern (Slingshot Studios) | Hyderabad |
 | `IDFCFIRSTBank_BackendEngineer_AI_Bengaluru_2026-10-06/` | Backend Engineer (AI Labs) | Bengaluru |
 | `JUSPAY_BackendSDE_Bangalore_2026-10-08/` | SDE Backend (Haskell / payments) | Bengaluru |
+| `NinjaVan_SWEIntern_Hyderabad_2026-10-09/` | SWE Intern (logistics platform) | Hyderabad |
 | `NatWest_Group_EarlyTalent_Bengaluru_2026-10-03/` | Early Talent Programme | Bengaluru |
 | `Rubrik_WinterIntern_SDE_Bengaluru_2026-10-05/` | Winter Intern (SDE) | Bengaluru |
 | `SkillsCapital_SWE_Intern_AI_ML_AgenticAI_RemoteIndia_2026-10-03/` | SWE Intern (AI/ML/Agentic AI) | Remote India |
@@ -170,13 +172,13 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **39+** |
-| Companies covered | **31+** |
-| Internship roles | **19+** |
+| Total curated entries | **40+** |
+| Companies covered | **32+** |
+| Internship roles | **20+** |
 | Full-time roles (FTE) | **8+** |
 | Hackathons / competitions | **9+** |
 | Master lists / bundles | **6** |
-| Batch coverage | **2026 / 2027 / 2028** |
+| Batch coverage | **2026 / 2027 / 2028 / 2029** |
 | Geography | Bengaluru, Hyderabad, Chennai, Mumbai, Delhi NCR, Pan-India, Remote |
 
 ---
@@ -232,7 +234,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 9 Oct 2026, 5:55 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 9 Oct 2026, 6:43 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
