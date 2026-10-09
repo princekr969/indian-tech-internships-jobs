@@ -3,22 +3,49 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 9 Oct 2026, 10:12 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 9 Oct 2026, 11:45 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026%20%C3%97%2010%3A12%20AM%20IST-blue)](https://github.com/your-username/your-repo)
-[![Entries](https://img.shields.io/badge/entries-41%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-9%20Oct%202026%2011%3A45%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-46%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
+[![Maintainer](https://img.shields.io/badge/maintainer-Prince%20Kumar-purple)](https://github.com/princekr969)
+
+---
+
+## 👤 About the Maintainer
+
+**Hi, I'm Prince Kumar 👋** — a college student in India, on a mission to help fellow students land the best tech internships and full-time roles.
+
+- 🎓 **Currently:** Preparing for 2026–2027 placement season
+- 💼 **Focus:** SWE / SDE internships, full-time tech roles, and hackathons with strong PPO pathways
+- 🛠️ **What I do:** Curate this open-source library of opportunities, share it freely on WhatsApp groups, and help friends navigate the placement process
+- 📬 **Reach me:**
+  - **GitHub:** [@princekr969](https://github.com/princekr969) ⭐
+  - **Repo:** [indian-tech-internships-jobs](https://github.com/princekr969/indian-tech-internships-jobs)
+  - **Email:** princekr969@outlook.com
+
+> 💡 **Why this repo exists:** Most job-posting aggregators are noisy, paywalled, or filled with scam recruitment. This library is **free, curated, batch-aware, and shareable.** If it helps you land a role, drop a ⭐ on the repo — that's the best way to support the work.
 
 ---
 
 ## 🆕 Recent Updates (Last 2 Days)
 
-### 📅 9 Oct 2026 (Fri)
+### 📅 9 Oct 2026 (Fri) — 5 NEW Entries Added 🚨
+
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[Goldman Sachs](GoldmanSachs_NewAnalyst_2027Batch_India_2026-10-09/)** 🏦 | New Analyst Program (Engineering FTE) | **₹26 – ₹40 LPA total CTC** | Bengaluru / Hyderabad / Mumbai |
+| **[American Express](AmericanExpress_SWEI_Bengaluru_2026-10-09/)** 💳 | SWE-I (Full Stack / Backend) | Not disclosed (est. ₹18-30 LPA) | Bengaluru |
+| **[Amazon ML Challenge](AmazonMLChallenge_2026_PPI_2026-10-09/)** 🤖 | ML Challenge 2026 — PPI Pathway | **PPO at Amazon** (₹30-50 LPA FTE) | Online + India |
+| **[American Express CodeStreet](AmericanExpress_CodeStreet_PPI_2026-10-09/)** 💻 | CodeStreet Hiring Challenge — PPI | **PPI to SWE-I** (₹18-30 LPA) | Bengaluru |
+| **[Bharat Builds × Amazon](BharatBuilds_Amazon_FastTrack_2026-10-09/)** 🇮🇳 | Bharat Builds Tour (6 hackathons) | **₹1 Cr prize pool** + 6-mo intern fast-track | Pan-India (online + Bangalore) |
+
 | Company | Role | Stipend / CTC | Location |
 |---|---|---|---|
 | **[Angel One](AngelOne_SDEIntern_Bangalore_2026-10-09/)** | SDE Intern | **₹50K – ₹80K/mo** + PPO | Bengaluru (Hybrid) |
 | **[Ninja Van](NinjaVan_SWEIntern_Hyderabad_2026-10-09/)** | SWE Intern (logistics platform) | Not disclosed | Hyderabad |
+| **[Selah Digital](SelahDigital_FullStackSWEIntern_Bangalore_2026-10-09/)** | Full Stack SWE Intern (AI-native) | Not disclosed | Bengaluru |
 
 ### 📅 8 Oct 2026 (Thu)
 | Company | Role | Stipend / CTC | Location |
@@ -29,6 +56,10 @@
 | **[Amazon SysDev](Amazon_SystemDevEngineerI_Chennai_2026-10-08/)** | System Development Engineer I | ₹18–30 LPA | Chennai |
 | **[Visa](Visa_SWE_FullStack_Bengaluru_2026-10-08/)** | Software Engineer (Full Stack) | ₹15–22 LPA | Bengaluru |
 | **[HackCellence x Booking Holdings](HackCellence_Embark_BookingHoldingsIntern_Bangalore_2026-10-08/)** | 6-month Tech Internship | **₹75K/mo** + PPO | Bangalore (Jan–Jun 2027) |
+
+### 📅 7 Oct 2026 (Wed) — Earlier this week
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
 | **[AEREO](AEREO_BackendSWEIntern_Bangalore_2026-10-07/)** | Backend SWE Intern (drone + geospatial) | ₹35K/mo + PPO | Bengaluru |
 | **[CRED](CRED_BackendSWEIntern_Bangalore_2026-10-07/)** | Backend SWE Intern | **₹50K–₹1L/mo** + PPO ₹22–30 LPA | Bengaluru |
 | **[Walmart](Walmart_SDE1_Bangalore_2026-10-07/)** | SDE-1 (2027/28 batch) | **₹1L–₹1.5L/mo** + ₹20–30 LPA PPO | Bengaluru |
@@ -45,12 +76,13 @@
 
 ## 📂 What's Inside
 
-This repository contains **39+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **46+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
 - ✅ **Batch eligibility table** (2026 / 2027 / 2028 fit)
 - ✅ **Stipend / CTC** reality check
+- ✅ **Expected start / end dates** (for batch-specific roles)
 - ✅ **Selection process** (interview rounds + tips)
 - ✅ **Cold email template** (recruiter + employee referral)
 - ✅ **Apply tip** (resume keywords, GitHub projects)
@@ -61,7 +93,7 @@ This repository contains **39+ curated entries** organized into individual folde
 
 ## 🗂️ Quick Index
 
-### 🔥 Tier 1 — Highest-Paying Internships (Stipend + ≥₹12 LPA PPO)
+### 🔥 Tier 1 — Highest-Paying Internships & FTE (Stipend + ≥₹12 LPA PPO)
 
 | Folder | Role | Stipend | PPO |
 |---|---|---|---|
@@ -70,6 +102,17 @@ This repository contains **39+ curated entries** organized into individual folde
 | `Atlassian_SWEIntern_Summer2027_Bengaluru_2026-10-07/` | SWE Intern | **₹70K – ₹1.3L + ₹70K bonus** | 75-85% return rate |
 | `HackerRank_SDE_Intern_Bengaluru_2026-10-02/` | SDE Intern | **$29-59/hr** | Returning offer |
 | `Revolut_ProductStrategyIntern_CEOOffice_2026-10-08/` | Product Strategy (CEO Office) | est. **₹2.5-4L/mo** | est. ₹25-40 LPA |
+| `GoldmanSachs_NewAnalyst_2027Batch_India_2026-10-09/` 🆕 | New Analyst (Engineering FTE) | — | **₹26-40 LPA total CTC** |
+| `AmericanExpress_SWEI_Bengaluru_2026-10-09/` 🆕 | SWE-I (Full Stack / Backend) | — | est. ₹18-30 LPA |
+
+### 🎯 PPI / Hackathon-to-FTE Pathways (Top Performers Get Direct Interviews)
+
+| Folder | Pathway | Outcome |
+|---|---|---|
+| `AmazonMLChallenge_2026_PPI_2026-10-09/` 🆕 | Amazon ML Challenge 2026 | **PPI → FTE at Amazon** (₹30-50 LPA) |
+| `AmericanExpress_CodeStreet_PPI_2026-10-09/` 🆕 | AmEx CodeStreet Hiring Challenge | **PPI → SWE-I at AmEx** (₹18-30 LPA) |
+| `BharatBuilds_Amazon_FastTrack_2026-10-09/` 🆕 | Bharat Builds Tour (6 hackathons) | **Top 60 → Amazon 6-mo intern + FTE fast-track** |
+| `HackCellence_Embark_BookingHoldingsIntern_Bangalore_2026-10-08/` | HackCellence × Booking Holdings | **6-mo intern at Booking Holdings** (₹75K/mo) |
 
 ### 💼 Internships & FTE (Bengaluru / Hyderabad / Chennai / Pan-India)
 
@@ -106,6 +149,7 @@ This repository contains **39+ curated entries** organized into individual folde
 
 | Folder | Event | Date |
 |---|---|---|
+| `BharatBuilds_Amazon_FastTrack_2026-10-09/` 🆕 | 🇮🇳 **Bharat Builds Tour** (Amazon + AWS) | Oct 2026 – Mar 2027 |
 | `HackCellence_Embark_BookingHoldingsIntern_Bangalore_2026-10-08/` | 🚨 **Booking Holdings 6-month internship** (registration closes TODAY) | Jan-Jun 2027 |
 | `AMD_Developer_Hackathon_ACT_III_lablab_Global_2026-10-12_to_2026-10-18/` | AMD Developer Hackathon ACT III | 12-18 Oct 2026 |
 | `PayPal_AI_Hackathon_Devpost_Global_2026-10-01_to_2026-11-12/` | PayPal AI Hackathon (Devpost) | 1 Oct – 12 Nov 2026 |
@@ -115,6 +159,8 @@ This repository contains **39+ curated entries** organized into individual folde
 | `BTS2026_StartupPavilion_FutureMakers_Bengaluru_2026-11-17/` | BTS2026 Startup Pavilion (Future Makers) | 17 Nov 2026 |
 | `Unstop_LinkedIn_GetUnstoppableCRP_2026-10-08/` | Get Unstoppable on LinkedIn (Unstop × LinkedIn) | 28 Oct 2026 reg deadline |
 | `ForeverLivingProducts_FBO_Mumbai_2026-10-03/` | Forever Living — FBO Opportunity | Mumbai |
+| `AmazonMLChallenge_2026_PPI_2026-10-09/` 🆕 | 🤖 **Amazon ML Challenge 2026** (PPI pathway) | Oct 2026 (registration open) |
+| `AmericanExpress_CodeStreet_PPI_2026-10-09/` 🆕 | 💻 **AmEx CodeStreet** (PPI pathway) | Oct 2026 (registration open) |
 
 ### 🛠️ Specialized / Other
 
@@ -124,6 +170,7 @@ This repository contains **39+ curated entries** organized into individual folde
 | `Synchrony_LeadAnalytics_Hyderabad_2026-10-06/` | Lead Analytics (3-5 yrs) | Hyderabad |
 | `Synchrony_ServiceNowIRM_Hyderabad_2026-10-06/` | AVP ServiceNow IRM (6+ yrs) | Hyderabad |
 | `TikTok_ByteDance_MLInfraIntern_SearchArch_2026-10-08/` | ML Infra Intern (CUDA/Triton — US-based) | US (visa-restricted) |
+| `GoldmanSachs_NewAnalyst_2027Batch_India_2026-10-09/` 🆕 | New Analyst (Engineering FTE, 2027 batch) | Bengaluru / Hyderabad / Mumbai |
 
 ---
 
@@ -133,9 +180,10 @@ This repository contains **39+ curated entries** organized into individual folde
 
 1. **Browse by tier** — start with Tier 1 if you want highest-payout roles
 2. **Check the batch eligibility table** in each README before applying
-3. **Read the "Important Notes" section** — flags batch restrictions + scam warnings
-4. **Copy the WhatsApp snippet** for any role you want to share with your group
-5. **Use the cold-email template** as a starting point (customize per role)
+3. **Read the "Expected Start & End Dates"** — confirm timeline alignment with your graduation
+4. **Read the "Important Notes" section** — flags batch restrictions + scam warnings
+5. **Copy the WhatsApp snippet** for any role you want to share with your group
+6. **Use the cold-email template** as a starting point (customize per role)
 
 ### For Sharing on WhatsApp Groups
 
@@ -150,7 +198,7 @@ This repository contains **39+ curated entries** organized into individual folde
 Each new entry should:
 1. Be created in a **new folder** named `<Company>_<Role>_<Location>_<YYYY-MM-DD>/`
 2. Contain a single `README.md` following the standard template
-3. Include all 9 standard sections (see top of this README)
+3. Include all 9 standard sections + Expected Start/End Dates
 4. Use generic, impersonal language (no "you" / "for you")
 5. Avoid including any scam recruitment posts (verify the company first)
 
@@ -165,6 +213,7 @@ Every entry goes through this filter:
 - ✅ **Stipend / CTC** must be either official or sourced from credible aggregators
 - ✅ **Apply link** must point to official careers portal or recruiter's LinkedIn
 - ✅ **Batch eligibility** must be supported by the JD or aggregator data
+- ✅ **Expected start / end dates** must be derivable from past cycles or official statements
 - ✅ **No scam recruitment posts** — verify on the official careers page
 
 ---
@@ -173,14 +222,24 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **41+** |
-| Companies covered | **33+** |
-| Internship roles | **21+** |
-| Full-time roles (FTE) | **8+** |
-| Hackathons / competitions | **9+** |
+| Total curated entries | **46+** |
+| Companies covered | **37+** |
+| Internship roles | **24+** |
+| Full-time roles (FTE) | **10+** |
+| Hackathons / competitions | **12+** |
+| PPI / challenge pathways | **3+** |
 | Master lists / bundles | **6** |
 | Batch coverage | **2026 / 2027 / 2028 / 2029** |
-| Geography | Bengaluru, Hyderabad, Chennai, Mumbai, Delhi NCR, Pan-India, Remote |
+| Geography | Bengaluru, Hyderabad, Chennai, Mumbai, Delhi NCR, Pan-India, Remote, US |
+
+---
+
+## ⭐ Star This Repo
+
+If this library helped you:
+- 🌟 **Star the repo:** [github.com/princekr969/indian-tech-internships-jobs](https://github.com/princekr969/indian-tech-internships-jobs)
+- 🔀 **Fork it** to add your own entries
+- 📢 **Share** with your WhatsApp placement groups
 
 ---
 
@@ -203,7 +262,8 @@ This repository is a **personal curation of public job postings** — not an off
 - **Format:** Markdown (`.md`)
 - **Structure:** One folder per entry, with `README.md` inside
 - **Naming convention:** `<Company>_<Role>_<Location>_<YYYY-MM-DD>/`
-- **Total size:** ~300 KB across all entries
+- **Total size:** ~330 KB across all entries
+- **Maintainer:** [Prince Kumar](https://github.com/princekr969)
 
 ---
 
@@ -229,13 +289,14 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ## 📞 Contact / Maintainer
 
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **WhatsApp:** [Your WhatsApp link if you want to share with friends]
-- **Email:** [Optional]
+- **GitHub:** [@princekr969](https://github.com/princekr969) ⭐
+- **Repo:** [indian-tech-internships-jobs](https://github.com/princekr969/indian-tech-internships-jobs)
+- **Email:** princekr969@outlook.com
+- **WhatsApp:** DM on GitHub for invite to placement group
 
 ---
 
-> **Last updated:** 9 Oct 2026, 10:12 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 9 Oct 2026, 11:45 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
