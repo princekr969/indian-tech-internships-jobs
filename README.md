@@ -12,9 +12,39 @@
 
 ---
 
+## 🆕 Recent Updates (Last 2 Days)
+
+### 📅 9 Oct 2026 (Fri)
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[Angel One](AngelOne_SDEIntern_Bangalore_2026-10-09/)** | SDE Intern | **₹50K – ₹80K/mo** + PPO | Bengaluru (Hybrid) |
+
+### 📅 8 Oct 2026 (Thu)
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[Revolut](Revolut_ProductStrategyIntern_CEOOffice_2026-10-08/)** | Product Strategy Manager (6-mo, CEO Office) | est. **₹2.5–4L/mo** + high PPO | Remote, India |
+| **[JUSPAY](JUSPAY_BackendSDE_Bangalore_2026-10-08/)** | SDE Backend (Haskell / payments) | ₹40K–80K/mo + PPO | Bengaluru |
+| **[TikTok / ByteDance](TikTok_ByteDance_MLInfraIntern_SearchArch_2026-10-08/)** | ML Infra Intern (CUDA/Triton) | $50–75/hr (US) | US (visa-restricted) |
+| **[Amazon SysDev](Amazon_SystemDevEngineerI_Chennai_2026-10-08/)** | System Development Engineer I | ₹18–30 LPA | Chennai |
+| **[Visa](Visa_SWE_FullStack_Bengaluru_2026-10-08/)** | Software Engineer (Full Stack) | ₹15–22 LPA | Bengaluru |
+| **[HackCellence x Booking Holdings](HackCellence_Embark_BookingHoldingsIntern_Bangalore_2026-10-08/)** | 6-month Tech Internship | **₹75K/mo** + PPO | Bangalore (Jan–Jun 2027) |
+| **[AEREO](AEREO_BackendSWEIntern_Bangalore_2026-10-07/)** | Backend SWE Intern (drone + geospatial) | ₹35K/mo + PPO | Bengaluru |
+| **[CRED](CRED_BackendSWEIntern_Bangalore_2026-10-07/)** | Backend SWE Intern | **₹50K–₹1L/mo** + PPO ₹22–30 LPA | Bengaluru |
+| **[Walmart](Walmart_SDE1_Bangalore_2026-10-07/)** | SDE-1 (2027/28 batch) | **₹1L–₹1.5L/mo** + ₹20–30 LPA PPO | Bengaluru |
+| **[All High-Stipend Master List](All_HighStipend_Internships_PPO_12LPA_India_2026-10-07/)** | Sweep of internships with ≥₹12 LPA PPO | Various | Pan-India |
+| **[Atlassian](Atlassian_SWEIntern_Summer2027_Bengaluru_2026-10-07/)** | SWE Intern (Summer 2027) | **₹70K–₹1.3L/mo + ₹70K bonus** | Bengaluru |
+| **[2028 Batch Master List](All_2028_Batch_ActiveJobOpenings_India_2026-10-08/)** | Comprehensive 2028 batch openings sweep | Various | Pan-India |
+| **[6-Active Bundle](6_ActiveJobs_FresherIntern_Bundle_Bengaluru_2026-10-07/)** | 6 Bengaluru fresher-intern roles bundle | Various | Bengaluru |
+| **[Cloudflight CCC](CloudflightCodingContest_CCC_2026_10_23/)** | 42nd Coding Contest (free) | — | Online, 23 Oct 2026 |
+| **[Unstop × LinkedIn](Unstop_LinkedIn_GetUnstoppableCRP_2026-10-08/)** | Get Unstoppable CRP (₹10K cash + LinkedIn Editorial) | — | Online |
+
+> 💡 **Tip:** Sort by date to see the freshest roles. Many of these have **registration deadlines within 1-2 weeks** — apply fast.
+
+---
+
 ## 📂 What's Inside
 
-This repository contains **38+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **39+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
