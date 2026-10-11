@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 11 Oct 2026, 2:25 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 11 Oct 2026, 9:30 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-11%20Oct%202026%202%3A25%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-69%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-11%20Oct%202026%209%3A30%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-70%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 [![Maintainer](https://img.shields.io/badge/maintainer-Prince%20Kumar-purple)](https://github.com/princekr969)
@@ -31,10 +31,11 @@
 
 ## 🆕 Recent Updates (Last 2 Days)
 
-### 📅 11 Oct 2026 (Sun) — 2 NEW Entries Added 🚨
+### 📅 11 Oct 2026 (Sun) — 3 NEW Entries Added 🚨
 
 | Company | Role | Stipend / CTC | Location |
 |---|---|---|---|
+| **[CRED](CRED_SoftwareEngineeringIntern_Bangalore_2026-10-11/)** 🆕 | Software Engineering Intern (CodeChef Jobboard) — AI-native workflow | "Competitive" (verify) | Bangalore (Closes Oct 21, 2026) |
 | **[LinkedIn 3-Jobs Combined Brief](LinkedIn_3Jobs_Combined_2026-10-11/)** 📌 | AmEx SWE-I + Google App Eng Intern + Discover Dollar AI Intern | ₹16.9–20.8 LPA + Google stipend | Gurgaon / Bengaluru + Hyd / Bengaluru |
 | **[HugoHub](HugoHub_Interns_Hyderabad_2026-10-11/)** 🆕 | 5 Intern Tracks (SWE / SRE / SET / Solution / UI) | Not disclosed (verify) | Hyderabad (WFO, Jan–Jun 2027) |
 
@@ -83,7 +84,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **69+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **70+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -106,6 +107,7 @@ This repository contains **69+ curated entries** organized into individual folde
 |---|---|---|---|
 | `Walmart_SDE1_Bangalore_2026-10-07/` | SDE-1 (2027/28) | **₹1L – ₹1.5L/mo** | ₹20-30 LPA |
 | `CRED_BackendSWEIntern_Bangalore_2026-10-07/` | Backend SWE | **₹50K – ₹1L/mo** | ₹22-30 LPA |
+| `CRED_SoftwareEngineeringIntern_Bangalore_2026-10-11/` 🆕 | SWE Intern (AI-native, CodeChef Jobboard) | "Competitive" | — |
 | `Atlassian_SWEIntern_Summer2027_Bengaluru_2026-10-07/` | SWE Intern | **₹70K – ₹1.3L + ₹70K bonus** | 75-85% return rate |
 | `HackerRank_SDE_Intern_Bengaluru_2026-10-02/` | SDE Intern | **$29-59/hr** | Returning offer |
 | `Revolut_ProductStrategyIntern_CEOOffice_2026-10-08/` | Product Strategy (CEO Office) | est. **₹2.5-4L/mo** | est. ₹25-40 LPA |
@@ -231,7 +233,7 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **69+** |
+| Total curated entries | **70+** |
 | Companies covered | **40+** |
 | Internship roles | **26+** |
 | Full-time roles (FTE) | **10+** |
@@ -305,7 +307,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 11 Oct 2026, 2:25 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 11 Oct 2026, 9:30 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
