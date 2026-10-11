@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 11 Oct 2026, 9:30 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 12 Oct 2026, 1:20 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-11%20Oct%202026%209%3A30%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-70%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-12%20Oct%202026%201%3A20%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-72%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 [![Maintainer](https://img.shields.io/badge/maintainer-Prince%20Kumar-purple)](https://github.com/princekr969)
@@ -30,6 +30,13 @@
 ---
 
 ## 🆕 Recent Updates (Last 2 Days)
+
+### 📅 12 Oct 2026 (Mon) — 2 NEW Entries Added 🚨
+
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[Media.net](MediaNet_SDE_Intern_Interview_Preparation_2026-10-09/)** 🆕 | SDE Intern — Interview Preparation Guide | — | Gurgaon / Bangalore (interview prep) |
+| **[Tropolite](Tropolite_Agentic_AI_Intern_Gwalior_2026-10-09/)** 🆕 | Agentic AI Intern (College-specific) | — | Gwalior (verify) |
 
 ### 📅 11 Oct 2026 (Sun) — 3 NEW Entries Added 🚨
 
@@ -84,7 +91,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **70+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **72+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -233,7 +240,7 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **70+** |
+| Total curated entries | **72+** |
 | Companies covered | **40+** |
 | Internship roles | **26+** |
 | Full-time roles (FTE) | **10+** |
@@ -307,7 +314,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 11 Oct 2026, 9:30 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 12 Oct 2026, 1:20 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
