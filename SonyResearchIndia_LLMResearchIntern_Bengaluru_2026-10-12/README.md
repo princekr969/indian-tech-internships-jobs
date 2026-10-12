@@ -24,6 +24,35 @@
 
 ---
 
+## Eligible Batches & Fit
+
+This is a **research-grade role** — the eligibility bar is higher than a typical SWE intern. B.Tech-only candidates without research experience generally do **not** fit.
+
+| Batch | B.Tech (CS / IT / related) | M.Tech / MS (CS / AI / ML / NLP) | PhD (CS / AI / ML / NLP) |
+|---|---|---|---|
+| **2024 (graduated)** | ⚠️ Only with strong hands-on Python + Language Processing project/research experience | ✅ Eligible (if 2024 grad with research exposure) | ✅ Eligible (ongoing) |
+| **2025 (graduated)** | ⚠️ Only with strong hands-on Python + Language Processing project/research experience | ✅ Eligible (if 2025 grad with research exposure) | ✅ Eligible (ongoing) |
+| **2026 (graduating now)** | ⚠️ Only with research-grade NLP/LLM projects + papers | ✅ Eligible — best fit | ✅ Eligible (ongoing) |
+| **2027 (graduating next year)** | ❌ Not eligible (still undergrad, no research depth yet) | ✅ Eligible if M.Tech final year | ✅ Eligible (ongoing) |
+| **2028+** | ❌ Too early | ❌ Too early | ✅ Eligible (ongoing) |
+
+### Quick Fit Summary
+- ✅ **Best fit:** M.Tech / MS students in CS / AI / ML / NLP (any year) + ongoing PhD students
+- ⚠️ **Borderline fit:** B.Tech grads (2024, 2025) with strong published / open-source NLP/LLM work
+- ❌ **No fit:** Current B.Tech students (2027 batch and earlier) without prior research experience
+
+### Education-Level Details
+| Level | Fit | Notes |
+|---|---|---|
+| **PhD in CS / AI / ML / NLP** | ✅ Strong fit | Research-grade role — PhD preferred for serious LLM work |
+| **Masters (M.Tech / MS) in CS / AI / ML / NLP** | ✅ Strong fit | Most common pipeline into this role |
+| **B.Tech + strong hands-on Python + Language Processing** | ⚠️ Conditional fit | Need demonstrable NLP/LLM projects (not just coursework) |
+| **B.Tech fresh grad, no research experience** | ❌ Not a fit | This is a research intern, not a SWE intern |
+
+> 💡 **For 2027 B.Tech students reading this:** This role is **not** a typical placement-season internship. It's a research intern that typically goes to M.Tech / PhD candidates. Build a research-grade NLP/LLM project + (ideally) a paper before applying in a future cycle.
+
+---
+
 ## What This Role Is About
 
 > *From the JD: "We are seeking a highly motivated LLM Research Intern with strong hands-on skills in PyTorch and a solid foundation in deep learning and NLP."*
@@ -75,6 +104,34 @@ This is a **pure R&D role** (not standard software maintenance). The intern coll
 | **Programme start** | Second week of March 2026 |
 | **Duration** | 6 months (full-time, 9–6 IST, Mon–Fri) |
 | **Apply via** | LinkedIn (job 4478061801) |
+
+### Eligible Branches / Disciplines
+
+| Branch / Discipline | Fit | Notes |
+|---|---|---|
+| **Computer Science (CS)** | ✅ Strong fit | Primary target audience |
+| **AI / Machine Learning** | ✅ Strong fit | Direct alignment with role |
+| **Data Science** | ✅ Strong fit | Adjacent to AI/ML |
+| **Information Technology (IT)** | ✅ Good fit | Equivalent to CS for this role |
+| **Mathematics / Statistics** | ✅ Good fit | Especially with NLP/LLM focus |
+| **Electronics / Electrical (ECE / EE)** | ⚠️ Conditional | Only with strong NLP/LLM project portfolio |
+| **Computational Linguistics / Cognitive Science** | ✅ Strong fit | Directly relevant |
+| **Other branches (Mechanical, Civil, etc.)** | ❌ Not a fit | Skill mismatch |
+
+### Eligibility Checklist (Before Applying)
+
+```
+[ ] Currently enrolled in or completed PhD / Masters (CS / AI / ML / NLP / DS)
+     — OR —
+[ ] B.Tech (CS / IT / related) with demonstrable NLP/LLM project/research
+[ ] Strong PyTorch + Python (hands-on coding, not just coursework)
+[ ] Familiarity with transformer architecture, fine-tuning, evaluation
+[ ] GitHub portfolio with at least 1-2 NLP/LLM projects (clean READMEs)
+[ ] No prior full-time industry experience requirement (fresher-friendly)
+[ ] Available full-time Mon-Fri 9-6 IST for 6 months starting March 2026
+[ ] Working from India (remote)
+[ ] Application submitted on LinkedIn (job 4478061801) before deadline
+```
 
 ---
 
