@@ -35,6 +35,42 @@
 
 ---
 
+## Eligible Batches & Fit (Detailed)
+
+### By Batch Year
+
+| Batch | AmEx SWE-I | Google App Eng | Discover Dollar AI |
+|---|---|---|---|
+| **2026 (graduating now)** | ✅ Eligible (0-3 yrs OK) | ❌ Not eligible (2027 only) | ❌ Not eligible (2027+) |
+| **2027 (graduating next year)** | ✅ Eligible | ✅ **Best fit** (2027 only) | ✅ Eligible |
+| **2028** | ✅ Eligible (0-3 yrs) | ❌ Not eligible | ✅ Eligible |
+| **2029** | ⚠️ Conditional (need 0-3 yrs post-grad) | ❌ Not eligible | ✅ Eligible |
+| **2024-2025 (already graduated, ≤3 yrs exp)** | ✅ Eligible | ❌ Not eligible | ❌ Not eligible |
+| **Working professionals (3+ yrs)** | ❌ Not a fit for apprentice track | ❌ Not eligible | ❌ Not a fit |
+
+### By Branch / Discipline
+
+| Branch / Discipline | AmEx SWE-I | Google App Eng | Discover Dollar AI |
+|---|---|---|---|
+| **Computer Science (CS)** | ✅ Strong fit | ✅ Strong fit | ✅ Strong fit |
+| **Information Technology (IT)** | ✅ Strong fit | ✅ Strong fit | ✅ Strong fit |
+| **AI / Machine Learning** | ✅ Good fit | ✅ Strong fit | ✅ **Best fit** |
+| **Data Science** | ✅ Good fit | ✅ Strong fit | ✅ Strong fit |
+| **Electronics / ECE** | ✅ Good fit | ✅ Good fit | ✅ Good fit |
+| **Electrical (EE)** | ✅ Good fit | ✅ Good fit | ⚠️ Conditional |
+| **Mathematics / Statistics** | ⚠️ Conditional | ⚠️ Conditional | ✅ Good fit (for AI) |
+| **Computational Linguistics** | ⚠️ Conditional | ⚠️ Conditional | ✅ Strong fit |
+| **Other branches** | ❌ Not a fit | ❌ Not a fit | ❌ Not a fit |
+
+### Quick Fit Cheat-Sheet
+- **2027 B.Tech CSE student** → Apply to **all 3** (AmEx + Google + Discover Dollar)
+- **2026 B.Tech grad (no full-time)** → Apply to **AmEx** (skip Google + Discover Dollar)
+- **2028 B.Tech student** → Apply to **AmEx + Discover Dollar** (skip Google)
+- **M.Tech / PhD student (any year)** → Apply to **all 3** (highest fit across the board)
+- **Non-CS branch** → Generally **not a fit** for any of the 3 roles
+
+---
+
 # Role 1 — American Express · Software Engineer I (Apprentice)
 
 ## Snapshot
@@ -345,30 +381,6 @@ GitHub: [GITHUB LINK]
 Happy to share any additional details. Thanks for considering!
 [YOUR NAME]
 ```
-
-## Template 4 — WhatsApp Group Share Snippet (for College Groups)
-
-```
-🚀 3 Active LinkedIn Tech Openings (Oct 2026):
-
-1️⃣ American Express — SWE-I (Apprentice)
-   • Gurgaon / Bengaluru | 0-3 yrs | ₹16.9-20.8 LPA
-   • Apply: https://lnkd.in/gCxGQtZk
-   • Open to 2026/2027/2028 batches
-
-2️⃣ Google — Application Engineering Intern (Winter 2027)
-   • 6 months starting Jan 2027 | 2027 batch only
-   • Apply: https://lnkd.in/d3EDUX_6
-   • Referrals available — DM Ashish Madhup on LinkedIn
-
-3️⃣ Discover Dollar Inc — AI Engineer Intern
-   • Bengaluru | 2027/2028/2029 batches
-   • Apply: https://lnkd.in/g7s-bNZs
-
-Full details + cold email templates: [GDRIVE LINK TO THIS DOC]
-```
-
----
 
 # How to Find Recruiter / HR Contact (If No Direct Channel)
 

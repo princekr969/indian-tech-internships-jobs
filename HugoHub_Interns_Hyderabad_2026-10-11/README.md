@@ -54,6 +54,37 @@ HugoHub is a Singapore-headquartered engineering company (linked from `sg.linked
 
 ---
 
+## Eligible Batches & Fit
+
+| Batch | Fit (all 5 roles) | Notes |
+|---|---|---|
+| **2026 (graduating this year)** | ✅ Eligible | Programme starts Jan 2027 — final-year students can apply now |
+| **2027 (graduating next year)** | ✅ Eligible | Primary target audience |
+| **2025 (already graduated)** | ⚠️ Conditional | Apply only if willing to commit full 6 months (Jan–Jun 2027) and not already in a full-time role |
+| **2028+** | ❌ Too early | — |
+
+### Quick Fit Summary
+- ✅ **Best fit:** 2026 and 2027 batch B.Tech / M.Tech students
+- ⚠️ **Borderline:** 2025 grads (gap-year students, or those without a current offer)
+- ❌ **No fit:** 2028 and later batches
+
+---
+
+## Eligible Branches / Disciplines
+
+| Branch / Discipline | SWE Intern | Solution Eng | SRE Intern | SET Intern | UI Design Eng |
+|---|---|---|---|---|---|
+| **Computer Science (CS)** | ✅ Strong fit | ✅ Strong fit | ✅ Strong fit | ✅ Strong fit | ✅ Strong fit |
+| **Information Technology (IT)** | ✅ Good fit | ✅ Good fit | ✅ Good fit | ✅ Good fit | ✅ Good fit |
+| **Electronics / ECE** | ✅ Good fit | ✅ Good fit | ⚠️ Conditional | ✅ Good fit | ⚠️ Conditional |
+| **Electrical (EE)** | ⚠️ Conditional | ✅ Good fit | ⚠️ Conditional | ✅ Good fit | ⚠️ Conditional |
+| **AI / ML / Data Science** | ✅ Strong fit | ✅ Strong fit | ✅ Strong fit | ✅ Strong fit | ⚠️ Conditional |
+| **Mathematics / Statistics** | ⚠️ Conditional | ⚠️ Conditional | ⚠️ Conditional | ✅ Good fit | ❌ Not typical |
+| **Design / HCI (B.Des / M.Des)** | ❌ Not typical | ❌ Not typical | ❌ Not typical | ⚠️ Conditional | ✅ Strong fit (UI Design Eng) |
+| **Other branches** | ❌ Not a fit | ❌ Not a fit | ❌ Not a fit | ❌ Not a fit | ❌ Not a fit |
+
+---
+
 ## Selection Process (Typical HugoHub-Style Intern Pipeline)
 
 ```
@@ -136,29 +167,6 @@ LinkedIn: [LINKEDIN PROFILE]
 Thanks for the time.
 [YOUR NAME]
 [PHONE]
-```
-
----
-
-## WhatsApp-Shareable Snippet (Paste-Ready)
-
-```
-🚀 HugoHub Internship (Hyderabad, Jan–Jun 2027)
-
-📍 Location: Hyderabad (WFO)
-⏳ Duration: 6 months (Jan 2027 – Jun 2027)
-🎓 Batches: 2026 & 2027
-
-5 Open Roles:
-• Software Engineering Intern
-• Solution Engineering Intern
-• Site Reliability Engineering Intern
-• Software Engineering in Test (SET) Intern
-• UI Design Engineering Intern
-
-⚠️ Apply for ONLY ONE role — multi-role applications auto-rejected.
-
-Apply: https://lnkd.in/gzX_uPEq
 ```
 
 ---

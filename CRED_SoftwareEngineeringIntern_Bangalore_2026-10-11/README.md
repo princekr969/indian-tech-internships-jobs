@@ -66,6 +66,38 @@ This is CRED's **AI-native SWE intern** track — the role explicitly calls out 
 
 ---
 
+## Eligible Batches & Fit
+
+| Batch | Fit | Notes |
+|---|---|---|
+| **2026 (graduating this year)** | ⚠️ Conditional | Apply only if you can commit to a full internship cycle (CRED typically runs spring/summer) — verify on form |
+| **2027 (graduating next year)** | ✅ **Best fit** | Primary target audience (per InternFreak / Medini Tech sources) |
+| **2028 (graduating in 2028)** | ❌ Too early | Programme typically targets final-year students |
+| **2025 or earlier (graduated)** | ⚠️ Conditional | Apply only if available full-time for the internship window |
+| **Working professionals** | ❌ Not a fit | This is an intern-track role |
+
+### Quick Fit Summary
+- ✅ **Best fit:** 2027 B.Tech / M.Tech batch
+- ⚠️ **Borderline:** 2026 batch (if available for full internship)
+- ❌ **No fit:** 2028+ batch, working professionals
+
+---
+
+## Eligible Branches / Disciplines
+
+| Branch / Discipline | Fit | Notes |
+|---|---|---|
+| **Computer Science (CS)** | ✅ **Strong fit** | Primary target audience |
+| **Information Technology (IT)** | ✅ Strong fit | Equivalent to CS for this role |
+| **AI / Machine Learning** | ✅ Strong fit | Especially relevant for the AI-native workflow |
+| **Data Science** | ✅ Strong fit | Adjacent to AI/ML |
+| **Electronics / ECE** | ✅ Good fit | With strong CS fundamentals |
+| **Electrical (EE)** | ⚠️ Conditional | Only with strong coding + AI tooling experience |
+| **Mathematics / Statistics** | ⚠️ Conditional | Only with hands-on coding + AI exposure |
+| **Other branches** | ❌ Not a fit | — |
+
+---
+
 ## CodeChef + CRED Direct Hiring Pathway (Related)
 
 Per the Medini Technologies update (Oct 9, 2026): CRED is running a **direct hiring contest in collaboration with CodeChef Starters 260** for **2027 batch** candidates targeting a **backend intern role in Bangalore**.
