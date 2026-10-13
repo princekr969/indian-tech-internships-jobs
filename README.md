@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 13 Oct 2026, 10:35 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 13 Oct 2026, 12:25 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-13%20Oct%202026%2010%3A35%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-78%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-13%20Oct%202026%2012%3A25%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-79%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 [![Maintainer](https://img.shields.io/badge/maintainer-Prince%20Kumar-purple)](https://github.com/princekr969)
@@ -31,10 +31,11 @@
 
 ## 🆕 Recent Updates (Last 2 Days)
 
-### 📅 13 Oct 2026 (Tue) — 2 NEW Entries Added 🚨
+### 📅 13 Oct 2026 (Tue) — 3 NEW Entries Added 🚨
 
 | Company | Role | Stipend / CTC | Location |
 |---|---|---|---|
+| **[2028 Batch 12+ LPA Map](2028_Batch_Internships_12LPA_India_2026-10-13/)** 🆕 | 22 2028-batch eligible tech roles (12+ LPA) — Google/Microsoft/Amazon/Stripe/Salesforce/Rubrik/Walmart/Philips | ₹50k-1.25L/mo (12-15+ LPA annualized) | India (Hyd/Bangalore/Pune/Gurgaon) |
 | **[4-Jobs Combined Brief](LinkedIn_Stripe_Coinbase_FedEx_4Jobs_Combined_2026-10-13/)** 🆕 | Coinbase FDE Intern (US) + Stripe SWE Intern + Discover Dollar AI Intern + FedEx SDE-I | ₹30-50K-₹1L+/mo (varies) | New York + Bengaluru (3) |
 | **[Airbus India](Airbus_FullStackSoftwareEngineeringIntern_Bangalore_2026-10-13/)** 🆕 | Software Engineering Intern – Full Stack (ReactJS / Python) | Not disclosed (est. ₹30-50K/mo) | Bangalore (6 mo, starts Jan 2027) |
 
@@ -102,7 +103,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **78+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **79+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -251,7 +252,7 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **78+** |
+| Total curated entries | **79+** |
 | Companies covered | **40+** |
 | Internship roles | **26+** |
 | Full-time roles (FTE) | **10+** |
@@ -325,7 +326,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 13 Oct 2026, 10:35 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 13 Oct 2026, 12:25 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
