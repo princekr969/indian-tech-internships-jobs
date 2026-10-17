@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 17 Oct 2026, 9:59 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 17 Oct 2026, 10:35 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-17%20Oct%202026%209%3A59%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-83%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-17%20Oct%202026%2010%3A35%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-85%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 [![Maintainer](https://img.shields.io/badge/maintainer-Prince%20Kumar-purple)](https://github.com/princekr969)
@@ -31,11 +31,13 @@
 
 ## 🆕 Recent Updates (Last 2 Days)
 
-### 📅 17 Oct 2026 (Sat) — 1 NEW Entry Added 🚨
+### 📅 17 Oct 2026 (Sat) — 3 NEW Entries Added 🚨
 
 | Company | Role | Stipend / CTC | Location |
 |---|---|---|---|
 | **[Wayfair Inc.](Wayfair_SoftwareEngineerIntern_Bangalore_2026-10-17/)** 🆕 | Software Engineer Intern (AI-First & GenAI Focus) — 7th sem CS only | ₹60,000+/month | Bangalore (Hybrid) |
+| **[BlackRock](BlackRock_AssociateFullStackDeveloper_Mumbai_2026-10-13/)** 🆕 | Associate Full-Stack Developer (Angular + Java + AWS) | Not disclosed (est. ₹18-30 LPA, 2-4 yrs exp) | Mumbai (Vikhroli) |
+| **[Mastercard](Mastercard_SoftwareEngineerI_Pune_2026-10-13/)** 🆕 | Software Engineer I (Java 17 + React + Oracle/PostgreSQL) | Not disclosed (est. ₹16-28 LPA) | Pune |
 
 ### 📅 16 Oct 2026 (Fri) — 1 NEW Entry Added 🚨
 
@@ -117,7 +119,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **83+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **85+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -178,6 +180,8 @@ This repository contains **83+ curated entries** organized into individual folde
 | `HugoHub_Interns_Hyderabad_2026-10-11/` 🆕 | 5 Intern Tracks (SWE / SRE / SET / Solution / UI) | Hyderabad |
 | `Harmonic_AssociateSWDevelopmentEngineer_Bangalore_2026-10-16/` 🆕 | Associate SDE (C/C++/Embedded, Broadband Devices) | Bengaluru (Hybrid) |
 | `Wayfair_SoftwareEngineerIntern_Bangalore_2026-10-17/` 🆕 | SWE Intern (AI-First & GenAI, 7th sem CS) | Bengaluru (Hybrid) |
+| `BlackRock_AssociateFullStackDeveloper_Mumbai_2026-10-13/` 🆕 | Associate Full-Stack Developer (Angular + Java, 2-4 yrs) | Mumbai |
+| `Mastercard_SoftwareEngineerI_Pune_2026-10-13/` 🆕 | SWE I (Java 17 + React + Oracle/PostgreSQL) | Pune |
 
 ### 📊 Bundle & Master Lists
 
@@ -268,10 +272,10 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **83+** |
+| Total curated entries | **85+** |
 | Companies covered | **40+** |
 | Internship roles | **27+** |
-| Full-time roles (FTE) | **11+** |
+| Full-time roles (FTE) | **13+** |
 | Hackathons / competitions | **12+** |
 | PPI / challenge pathways | **3+** |
 | Master lists / bundles | **6** |
@@ -342,7 +346,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 17 Oct 2026, 9:59 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 17 Oct 2026, 10:35 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
