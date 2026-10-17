@@ -1,4 +1,4 @@
-﻿# Wayfair Inc. â€” Software Engineer Intern (AI-First & GenAI), Bangalore
+# Wayfair Inc. â€” Software Engineer Intern (AI-First & GenAI), Bangalore
 
 > â­ **If this README helps, please Star / Fork / Issue / Share the repo:**
 > **[github.com/princekr969/indian-tech-internships-jobs](https://github.com/princekr969/indian-tech-internships-jobs)**
