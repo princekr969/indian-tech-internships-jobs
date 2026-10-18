@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 17 Oct 2026, 10:35 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 18 Oct 2026, 10:00 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-17%20Oct%202026%2010%3A35%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-85%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-18%20Oct%202026%2010%3A00%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-86%2B-green)](.)
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 [![Maintainer](https://img.shields.io/badge/maintainer-Prince%20Kumar-purple)](https://github.com/princekr969)
@@ -30,6 +30,12 @@
 ---
 
 ## 🆕 Recent Updates (Last 2 Days)
+
+### 📅 18 Oct 2026 (Sun) — 1 NEW Entry Added 🚨
+
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[4 Jobs Combined Brief](4Jobs_Combined_JD6517_HackerRank_Stripe_IBM_Microsoft_2026-10-18/)** 🆕 | HackerRank SDE-I + Stripe SWE-I + IBM SWE + Microsoft Data Science Intern (JD 6517, ₹1.25L/mo 🔥) | ₹25K–₹1.25L/mo | Bengaluru / Hyd / Pune / Gurgaon |
 
 ### 📅 17 Oct 2026 (Sat) — 3 NEW Entries Added 🚨
 
@@ -119,7 +125,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **85+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **86+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -182,6 +188,7 @@ This repository contains **85+ curated entries** organized into individual folde
 | `Wayfair_SoftwareEngineerIntern_Bangalore_2026-10-17/` 🆕 | SWE Intern (AI-First & GenAI, 7th sem CS) | Bengaluru (Hybrid) |
 | `BlackRock_AssociateFullStackDeveloper_Mumbai_2026-10-13/` 🆕 | Associate Full-Stack Developer (Angular + Java, 2-4 yrs) | Mumbai |
 | `Mastercard_SoftwareEngineerI_Pune_2026-10-13/` 🆕 | SWE I (Java 17 + React + Oracle/PostgreSQL) | Pune |
+| `4Jobs_Combined_JD6517_HackerRank_Stripe_IBM_Microsoft_2026-10-18/` 🆕 | 4-Jobs Combined: HackerRank SDE-I + Stripe SWE-I + IBM SWE + Microsoft DS Intern | BLR / HYD / Pune / GGN |
 
 ### 📊 Bundle & Master Lists
 
@@ -272,9 +279,9 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **85+** |
+| Total curated entries | **86+** |
 | Companies covered | **40+** |
-| Internship roles | **27+** |
+| Internship roles | **30+** |
 | Full-time roles (FTE) | **13+** |
 | Hackathons / competitions | **12+** |
 | PPI / challenge pathways | **3+** |
@@ -346,7 +353,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 17 Oct 2026, 10:35 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 18 Oct 2026, 10:00 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
