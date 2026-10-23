@@ -390,3 +390,20 @@ Best,
 - Similar role (SWE Intern AI/ML): https://in.linkedin.com/jobs/view/software-engineer-intern-ai-ml-ai-powered-tech-startup-at-skillscapital-4204737327
 - Bee: https://bebee.com/in/jobs/software-engineer-intern-ai-ml-agentic-ai-ai-powered-global-talent-intelligence-platform-fully-remot--t7xk-789739914
 - LinkedIn post (Adarsh Kumar Pandey): https://www.linkedin.com/posts/adarshkumarpandey19101_hiring-sde-techjobs-activity-7463447929098407936-l6AK
+---
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **data, ML or analytics** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | CS + statistics is the standard profile |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Possible with a strong data/ML project |
+| **Electrical Engineering (EE)** | ⚠️ | Possible with a strong data/ML project |
+| **Artificial Intelligence (AI)** | ✅ | Direct fit for an AI/ML seat |
+| **Machine Learning (ML)** | ✅ | Direct fit |
+| **Data Science (DS)** | ✅ | Direct fit |
+| **Mathematics / Statistics** | ✅ | Direct fit where statistics is central |
+

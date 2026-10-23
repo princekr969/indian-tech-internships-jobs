@@ -159,3 +159,34 @@ Thanks!
 
 > **Last updated:** 6 Oct 2026
 > 🎯 **Best for 2025/2024 batch + lateral hires with 2+ years of Python/Node backend. 2027 batch should target IDFC's SWE intern pipeline instead.**
+
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2024** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ✅ | Named batch in the posting - the intended cohort |
+| **2025** | ❌ | Later cohort - not the batch this posting targets |
+| **2026** | ❌ | Later cohort - not the batch this posting targets |
+| **2027** | ❌ | Later cohort - not the batch this posting targets |
+| **2028** | ❌ | Later cohort - not the batch this posting targets |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **backend / full-stack engineering** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Direct fit - DSA and backend are core curriculum |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Electrical Engineering (EE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Artificial Intelligence (AI)** | ✅ | Fits well when you also show backend work |
+| **Machine Learning (ML)** | ⚠️ | Backend seat - show services, not notebooks |
+| **Data Science (DS)** | ⚠️ | Possible with a real backend project |
+| **Mathematics / Statistics** | ❌ | Backend needs a systems portfolio, not analytics |
+

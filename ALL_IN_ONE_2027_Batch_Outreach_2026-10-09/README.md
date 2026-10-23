@@ -4923,3 +4923,34 @@ Apply: https://t.co/HKIsWEBD0Y
 - **All batch eligibility:** 2027 B.Tech / M.Tech
 
 > Star the repo if it helped — keeps the curation going for the next batch.
+
+---
+
+## 📋 Eligible Batches & Fit
+
+> This entry is curated for **batch 2027**, so that cohort is the intended fit and the other years are out of scope for this list.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2027** | ✅ | Named batch in the posting - the intended cohort |
+| **2028** | ❌ | Later cohort - not the batch this posting targets |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> **Open event - any branch is welcome**, including non-technical builders.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Open event - no academic branch filter |
+| **Information Technology (IT)** | ✅ | Open event - no academic branch filter |
+| **Electronics & Communication (ECE)** | ✅ | Open event - no academic branch filter |
+| **Electrical Engineering (EE)** | ✅ | Open event - no academic branch filter |
+| **Artificial Intelligence (AI)** | ✅ | Open event - no academic branch filter |
+| **Machine Learning (ML)** | ✅ | Open event - no academic branch filter |
+| **Data Science (DS)** | ✅ | Open event - no academic branch filter |
+| **Mathematics / Statistics** | ✅ | Open event - no academic branch filter |
+

@@ -382,3 +382,33 @@ Best,
 - Startup Rising listing: https://startupsrising.com/startup-events-in-bengaluru/bengaluru-tech-summit/
 - Exhibitor Registration (Corporate): https://bengalurutechsummit.com/bts-2026/public/exhibitor/registration?currency=ind
 - BERI Event Page: https://www.beri.net/events/bengaluru-tech-summit-2026
+---
+
+## 📋 Eligible Batches & Fit
+
+> The experience band in this posting reads as **mid**, which drives the fit column below.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Only if the posting accepts 2-4 yrs experience |
+| **2025** | ⚠️ | Borderline - check the exact experience requirement |
+| **2026** | ⚠️ | Usual fresh-grad band may be too senior for this seat |
+| **2027** | ❌ | Below the stated experience window |
+| **2028** | ❌ | Too early for a mid-level seat |
+| **2029** | ❌ | Not eligible |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **product, strategy or business** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ⚠️ | Only with strong product/analytics work |
+| **Information Technology (IT)** | ⚠️ | Only with strong product/analytics work |
+| **Electronics & Communication (ECE)** | ❌ | Not the profile this function hires |
+| **Electrical Engineering (EE)** | ❌ | Not the profile this function hires |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Machine Learning (ML)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Data Science (DS)** | ✅ | Strong fit for analytics-led product functions |
+| **Mathematics / Statistics** | ✅ | Strong fit for quantitative product functions |
+

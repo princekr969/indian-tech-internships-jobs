@@ -385,3 +385,33 @@ Best,
 > 🎯 **You have 7 days until kickoff. Register NOW and start prepping your $100 free AMD cloud credits!**
 
 Want me to **help you pick a winning project idea** based on your skills, **draft a project plan** for the AMD Evolus Business Agents track, or **explain how to claim and use the $100 AMD credits** before the hackathon starts?
+---
+
+## 📋 Eligible Batches & Fit
+
+> **Open event (hackathon / contest / curated list) - no batch restriction.** Every graduation year below is marked as eligible.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ✅ | No batch restriction for an open event |
+| **2025** | ✅ | No batch restriction for an open event |
+| **2026** | ✅ | No batch restriction for an open event |
+| **2027** | ✅ | No batch restriction for an open event |
+| **2028** | ✅ | No batch restriction for an open event |
+| **2029** | ✅ | No batch restriction for an open event |
+
+## 📋 Eligible Branches / Disciplines
+
+> **Open event - any branch is welcome**, including non-technical builders.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Open event - no academic branch filter |
+| **Information Technology (IT)** | ✅ | Open event - no academic branch filter |
+| **Electronics & Communication (ECE)** | ✅ | Open event - no academic branch filter |
+| **Electrical Engineering (EE)** | ✅ | Open event - no academic branch filter |
+| **Artificial Intelligence (AI)** | ✅ | Open event - no academic branch filter |
+| **Machine Learning (ML)** | ✅ | Open event - no academic branch filter |
+| **Data Science (DS)** | ✅ | Open event - no academic branch filter |
+| **Mathematics / Statistics** | ✅ | Open event - no academic branch filter |
+

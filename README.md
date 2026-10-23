@@ -3,10 +3,11 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 19 Oct 2026, 2:30 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 23 Oct 2026, 3:05 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-19%20Oct%202026%202%3A30%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-87%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-23%20Oct%202026%203%3A05%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-89%2B-green)](.)
+[![Eligibility](https://img.shields.io/badge/Eligible%20Batches%20%2B%20Eligible%20Branches-100%25%20of%20entries-success)]()
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
 [![Maintainer](https://img.shields.io/badge/maintainer-Prince%20Kumar-purple)](https://github.com/princekr969)
@@ -30,6 +31,16 @@
 ---
 
 ## 🆕 Recent Updates (Last 2 Days)
+
+### 📅 23 Oct 2026 (Fri) — 2 NEW Entries + Repo-wide Eligibility Fix ✅
+
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[Electronic Arts](ElectronicArts_JAVASoftwareEngineerIntern_Hyderabad_2026-10-23/)** 🆕 | JAVA Software Engineer Intern — EADP, Role ID **215938** (Java/Scala, Microservices, Docker, K8s, Observability) | est. ₹40–50K/mo | Hyderabad (Hybrid) |
+| **[CoinSwitch / PeepalCo](CoinSwitch_EngineeringIntern_Bengaluru_2026-10-22/)** 🆕 | Engineering Intern (Python, Golang, Java, React Native) — **2027 batch only** | est. ₹4–5 LPA equiv. | Greater Bengaluru |
+
+> 🛠️ **Repo-wide fix applied today:** every entry now carries an **Eligible Batches & Fit** table (2024–2029) and an **Eligible Branches / Disciplines** table (CS/IT/ECE/EE/AI/ML/DS/Math), so nothing looks incomplete when shared in a community group.
+> **86 of 86 entries** now have both sections. ⚠️ Walmart's India SWE-II posting is **US-university students only** — see its entry.
 
 ### 📅 19 Oct 2026 (Mon) — 1 NEW Entry Added 🚨
 
@@ -131,7 +142,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **87+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **89+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -196,6 +207,8 @@ This repository contains **87+ curated entries** organized into individual folde
 | `Mastercard_SoftwareEngineerI_Pune_2026-10-13/` 🆕 | SWE I (Java 17 + React + Oracle/PostgreSQL) | Pune |
 | `4Jobs_Combined_JD6517_HackerRank_Stripe_IBM_Microsoft_2026-10-18/` 🆕 | 4-Jobs Combined: HackerRank SDE-I + Stripe SWE-I + IBM SWE + Microsoft DS Intern | BLR / HYD / Pune / GGN |
 | `6Jobs_Combined_HPE_CloudSEK_Qualcomm_Walmart_Amazon_MLH_VizagHackathon_2026-10-19/` 🆕 | 6-Jobs Combined: HPE + CloudSEK + Qualcomm + Walmart + Amazon + MLH Vizag | BLR / Hyd / Chennai / Noida / Vizag |
+| `CoinSwitch_EngineeringIntern_Bengaluru_2026-10-22/` 🆕 | Engineering Intern (Python/Golang/Java/React Native — PeepalCo) | Greater Bengaluru |
+| `ElectronicArts_JAVASoftwareEngineerIntern_Hyderabad_2026-10-23/` 🆕 | JAVA SWE Intern — EADP (Java/Scala, Microservices, Docker, K8s) | Hyderabad (Hybrid) |
 
 ### 📊 Bundle & Master Lists
 
@@ -286,9 +299,9 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **87+** |
+| Total curated entries | **89+** |
 | Companies covered | **40+** |
-| Internship roles | **33+** |
+| Internship roles | **35+** |
 | Full-time roles (FTE) | **14+** |
 | Hackathons / competitions | **12+** |
 | PPI / challenge pathways | **3+** |
@@ -360,7 +373,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 19 Oct 2026, 2:30 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 23 Oct 2026, 3:05 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 

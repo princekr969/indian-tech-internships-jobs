@@ -224,3 +224,33 @@ Best,
 - Build with Gemini Series: https://cloud.google.com/events/build-with-gemini-2026
 - Gemini at Work Resource Hub: https://workspace.google.com/resources/ai/
 - Gen AI at Work Series: https://workspace.google.com/events/gen-ai-work-hub
+---
+
+## 📋 Eligible Batches & Fit
+
+> The experience band in this posting reads as **intern**, which drives the fit column below.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Past graduation - target the FTE openings instead |
+| **2025** | ✅ | Recent grad - typical intern eligibility window |
+| **2026** | ✅ | Just graduating - inside the standard intern window |
+| **2027** | ✅ | Final-year B.Tech - the sweet spot for intern roles |
+| **2028** | ⚠️ | Prefinal-year - possible if the posting has no batch filter |
+| **2029** | ❌ | 1st year - too early for a production intern seat |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **DevOps, SRE or cloud/platform** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Standard source for SRE and cloud roles |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Electrical Engineering (EE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Artificial Intelligence (AI)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Machine Learning (ML)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Data Science (DS)** | ⚠️ | Some overlap through pipelines and data platforms |
+| **Mathematics / Statistics** | ❌ | Infrastructure work needs a systems background |
+

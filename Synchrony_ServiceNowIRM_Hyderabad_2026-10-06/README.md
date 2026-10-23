@@ -159,3 +159,34 @@ Thanks!
 
 > **Last updated:** 6 Oct 2026
 > 🎯 **NOT a fresher / SWE role. This is for experienced ServiceNow architects with 6+ years, CSA+CAD certified, BFSI exposure. 2027 batch should treat as a 4-5 year career target.**
+
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2027** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2027** | ✅ | Named batch in the posting - the intended cohort |
+| **2028** | ❌ | Later cohort - not the batch this posting targets |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **product, strategy or business** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ⚠️ | Only with strong product/analytics work |
+| **Information Technology (IT)** | ⚠️ | Only with strong product/analytics work |
+| **Electronics & Communication (ECE)** | ❌ | Not the profile this function hires |
+| **Electrical Engineering (EE)** | ❌ | Not the profile this function hires |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Machine Learning (ML)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Data Science (DS)** | ✅ | Strong fit for analytics-led product functions |
+| **Mathematics / Statistics** | ✅ | Strong fit for quantitative product functions |
+

@@ -240,3 +240,33 @@ Would appreciate a referral or a pointer to the right team. Thanks!
 
 > **Last updated:** 7 Oct 2026
 > 🎯 **For 2027 batch (current users in this conversation): apply ONLY if doing MS/MBA after graduation. Otherwise focus on CRED / Walmart / HackerRank. For 2028 batch friends: this is a top-tier opportunity — apply within 2-3 weeks.**
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2028** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2027** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2028** | ✅ | Named batch in the posting - the intended cohort |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **backend / full-stack engineering** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Direct fit - DSA and backend are core curriculum |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Electrical Engineering (EE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Artificial Intelligence (AI)** | ✅ | Fits well when you also show backend work |
+| **Machine Learning (ML)** | ⚠️ | Backend seat - show services, not notebooks |
+| **Data Science (DS)** | ⚠️ | Possible with a real backend project |
+| **Mathematics / Statistics** | ❌ | Backend needs a systems portfolio, not analytics |
+

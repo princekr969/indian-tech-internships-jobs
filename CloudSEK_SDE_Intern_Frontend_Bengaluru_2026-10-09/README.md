@@ -142,3 +142,34 @@ ABV-IIITM Gwalior
 - **Last updated:** 9 Oct 2026
 
 > Star the repo if it helped — keeps the curation going for the next batch.
+
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2027** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2027** | ✅ | Named batch in the posting - the intended cohort |
+| **2028** | ❌ | Later cohort - not the batch this posting targets |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **frontend engineering** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Standard profile for frontend engineering |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Viable with a strong UI project set |
+| **Electrical Engineering (EE)** | ⚠️ | Viable with a strong UI project set |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable with a strong UI project set |
+| **Machine Learning (ML)** | ⚠️ | Viable with a strong UI project set |
+| **Data Science (DS)** | ⚠️ | Unusual fit; needs a real frontend portfolio |
+| **Mathematics / Statistics** | ❌ | Frontend needs a UI portfolio, not analytics |
+

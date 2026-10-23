@@ -233,3 +233,33 @@ Would appreciate a referral or a pointer to the right team. Thanks!
 
 > **Last updated:** 7 Oct 2026
 > 🎯 **Unique angle: AEREO's selection is GitHub-assignment-based — publish clean, working code publicly and it becomes your strongest credential. Sweet fit for 2027 batch wanting to break into deep-tech / cloud / drone platforms.**
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2024** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ✅ | Named batch in the posting - the intended cohort |
+| **2025** | ✅ | Recent grad - typical intern eligibility window |
+| **2026** | ✅ | Just graduating - inside the standard intern window |
+| **2027** | ✅ | Final-year B.Tech - the sweet spot for intern roles |
+| **2028** | ⚠️ | Prefinal-year - possible if the posting has no batch filter |
+| **2029** | ❌ | 1st year - too early for a production intern seat |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **backend / full-stack engineering** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Direct fit - DSA and backend are core curriculum |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Electrical Engineering (EE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Artificial Intelligence (AI)** | ✅ | Fits well when you also show backend work |
+| **Machine Learning (ML)** | ⚠️ | Backend seat - show services, not notebooks |
+| **Data Science (DS)** | ⚠️ | Possible with a real backend project |
+| **Mathematics / Statistics** | ❌ | Backend needs a systems portfolio, not analytics |
+

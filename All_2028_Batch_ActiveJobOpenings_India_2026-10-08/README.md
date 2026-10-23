@@ -659,3 +659,33 @@ Apply within 7-14 days. Summer 2027 starts May 2027.
 
 > **Last updated:** 8 Oct 2026
 > 🎯 **Top 3 for 2028 batch: Salesforce · Stripe · Atlassian. Apply within 7-14 days — most Summer 2027 roles close by November. Combine Salesforce's brand reliability, Stripe's record-high stipend, and Atlassian's clear PPO path for a triple-apply within the week.**
+---
+
+## 📋 Eligible Batches & Fit
+
+> This entry is curated for **batch 2028**, so that cohort is the intended fit and the other years are out of scope for this list.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2027** | ⚠️ | Earlier cohort - this posting targets batch 2028; look at the full-time openings instead |
+| **2028** | ✅ | Named batch in the posting - the intended cohort |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> **Open event - any branch is welcome**, including non-technical builders.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Open event - no academic branch filter |
+| **Information Technology (IT)** | ✅ | Open event - no academic branch filter |
+| **Electronics & Communication (ECE)** | ✅ | Open event - no academic branch filter |
+| **Electrical Engineering (EE)** | ✅ | Open event - no academic branch filter |
+| **Artificial Intelligence (AI)** | ✅ | Open event - no academic branch filter |
+| **Machine Learning (ML)** | ✅ | Open event - no academic branch filter |
+| **Data Science (DS)** | ✅ | Open event - no academic branch filter |
+| **Mathematics / Statistics** | ✅ | Open event - no academic branch filter |
+

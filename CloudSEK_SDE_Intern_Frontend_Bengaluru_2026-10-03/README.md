@@ -349,3 +349,20 @@ Best,
 - freshershunt listing: https://freshershunt.in/cloudsek-off-campus-drive-2026/
 - Prosple listing: https://in.prosple.com/graduate-employers/cloudsek/jobs-internships/frontend-sde-intern
 - IntHunt aggregator: http://www.inthunt.com/internships/company/cloudsek/
+---
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **frontend engineering** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Standard profile for frontend engineering |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Viable with a strong UI project set |
+| **Electrical Engineering (EE)** | ⚠️ | Viable with a strong UI project set |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable with a strong UI project set |
+| **Machine Learning (ML)** | ⚠️ | Viable with a strong UI project set |
+| **Data Science (DS)** | ⚠️ | Unusual fit; needs a real frontend portfolio |
+| **Mathematics / Statistics** | ❌ | Frontend needs a UI portfolio, not analytics |
+

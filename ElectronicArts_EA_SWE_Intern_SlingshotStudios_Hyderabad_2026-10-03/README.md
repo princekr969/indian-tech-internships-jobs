@@ -361,3 +361,20 @@ Best,
 - Similar role (different job ID): https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/2149592
 - TheJobCompany listing: https://thejobcompany.in/frontend/job_details?job_id=5058
 - EA Hyderabad benefits overview: https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216034
+---
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **backend / full-stack engineering** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Direct fit - DSA and backend are core curriculum |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Electrical Engineering (EE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Artificial Intelligence (AI)** | ✅ | Fits well when you also show backend work |
+| **Machine Learning (ML)** | ⚠️ | Backend seat - show services, not notebooks |
+| **Data Science (DS)** | ⚠️ | Possible with a real backend project |
+| **Mathematics / Statistics** | ❌ | Backend needs a systems portfolio, not analytics |
+

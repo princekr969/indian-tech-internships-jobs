@@ -502,3 +502,33 @@ Critical / cautionary commentary (read to balance the picture):
 ---
 
 *This document is an independent research brief based on publicly available information. It is **not** an endorsement, recommendation or recruitment material. Joining any MLM involves real financial risk — the income data above comes from Forever Living's own disclosures and the U.S. Federal Trade Commission's April 2026 complaint, both of which show that the vast majority of participants lose money or earn nothing.*
+---
+
+## 📋 Eligible Batches & Fit
+
+> The experience band in this posting reads as **senior**, which drives the fit column below.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Only with strong prior industry experience |
+| **2025** | ⚠️ | Only with strong prior industry experience |
+| **2026** | ⚠️ | Likely too senior a target without prior experience |
+| **2027** | ❌ | Below the stated experience window |
+| **2028** | ❌ | Not eligible |
+| **2029** | ❌ | Not eligible |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **product, strategy or business** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ⚠️ | Only with strong product/analytics work |
+| **Information Technology (IT)** | ⚠️ | Only with strong product/analytics work |
+| **Electronics & Communication (ECE)** | ❌ | Not the profile this function hires |
+| **Electrical Engineering (EE)** | ❌ | Not the profile this function hires |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Machine Learning (ML)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Data Science (DS)** | ✅ | Strong fit for analytics-led product functions |
+| **Mathematics / Statistics** | ✅ | Strong fit for quantitative product functions |
+

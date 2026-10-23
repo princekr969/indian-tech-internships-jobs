@@ -517,3 +517,33 @@ Apply within 7-14 days. Full details: D:\Companies_details\All_HighStipend_Inter
 
 > **Last updated:** 7 Oct 2026
 > 🎯 **Top 4 for 2027 batch: Amazon · Walmart · CRED · HackerRank. Apply within 7-14 days. Stipend bands range from ₹30K to ₹1.5L/month, PPO CTCs range from ₹12 LPA to ₹50 LPA.**
+---
+
+## 📋 Eligible Batches & Fit
+
+> **Open event (hackathon / contest / curated list) - no batch restriction.** Every graduation year below is marked as eligible.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ✅ | No batch restriction for an open event |
+| **2025** | ✅ | No batch restriction for an open event |
+| **2026** | ✅ | No batch restriction for an open event |
+| **2027** | ✅ | No batch restriction for an open event |
+| **2028** | ✅ | No batch restriction for an open event |
+| **2029** | ✅ | No batch restriction for an open event |
+
+## 📋 Eligible Branches / Disciplines
+
+> **Open event - any branch is welcome**, including non-technical builders.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Open event - no academic branch filter |
+| **Information Technology (IT)** | ✅ | Open event - no academic branch filter |
+| **Electronics & Communication (ECE)** | ✅ | Open event - no academic branch filter |
+| **Electrical Engineering (EE)** | ✅ | Open event - no academic branch filter |
+| **Artificial Intelligence (AI)** | ✅ | Open event - no academic branch filter |
+| **Machine Learning (ML)** | ✅ | Open event - no academic branch filter |
+| **Data Science (DS)** | ✅ | Open event - no academic branch filter |
+| **Mathematics / Statistics** | ✅ | Open event - no academic branch filter |
+

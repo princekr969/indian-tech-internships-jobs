@@ -143,3 +143,34 @@ ABV-IIITM Gwalior
 - **Last updated:** 9 Oct 2026
 
 > Star the repo if it helped — keeps the curation going for the next batch.
+
+---
+
+## 📋 Eligible Batches & Fit
+
+> This entry is curated for **batch 2027**, so that cohort is the intended fit and the other years are out of scope for this list.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2027** | ✅ | Named batch in the posting - the intended cohort |
+| **2028** | ❌ | Later cohort - not the batch this posting targets |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **DevOps, SRE or cloud/platform** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Standard source for SRE and cloud roles |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Electrical Engineering (EE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Artificial Intelligence (AI)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Machine Learning (ML)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Data Science (DS)** | ⚠️ | Some overlap through pipelines and data platforms |
+| **Mathematics / Statistics** | ❌ | Infrastructure work needs a systems background |
+

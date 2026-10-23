@@ -141,3 +141,34 @@ ABV-IIITM Gwalior
 - **Last updated:** 9 Oct 2026
 
 > Star the repo if it helped — keeps the curation going for the next batch.
+
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2027** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2027; look at the full-time openings instead |
+| **2027** | ✅ | Named batch in the posting - the intended cohort |
+| **2028** | ❌ | Later cohort - not the batch this posting targets |
+| **2029** | ❌ | Later cohort - not the batch this posting targets |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **backend / full-stack engineering** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Direct fit - DSA and backend are core curriculum |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Electrical Engineering (EE)** | ⚠️ | Plausible with a solid DSA and backend project |
+| **Artificial Intelligence (AI)** | ✅ | Fits well when you also show backend work |
+| **Machine Learning (ML)** | ⚠️ | Backend seat - show services, not notebooks |
+| **Data Science (DS)** | ⚠️ | Possible with a real backend project |
+| **Mathematics / Statistics** | ❌ | Backend needs a systems portfolio, not analytics |
+

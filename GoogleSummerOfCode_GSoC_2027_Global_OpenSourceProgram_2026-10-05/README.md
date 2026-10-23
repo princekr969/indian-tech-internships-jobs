@@ -307,3 +307,20 @@ Best,
 > 🎯 **Best window for 2027 GSoC is NOW.** You have ~5 months to build contributions + write proposal.
 
 Want me to **draft a GSoC proposal outline** for a specific org, **list the top 5 easiest orgs for Indian CS students to get selected**, or **plan a 30-day contribution sprint** to make your first accepted PR?
+---
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **DevOps, SRE or cloud/platform** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Standard source for SRE and cloud roles |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Electrical Engineering (EE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Artificial Intelligence (AI)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Machine Learning (ML)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Data Science (DS)** | ⚠️ | Some overlap through pipelines and data platforms |
+| **Mathematics / Statistics** | ❌ | Infrastructure work needs a systems background |
+

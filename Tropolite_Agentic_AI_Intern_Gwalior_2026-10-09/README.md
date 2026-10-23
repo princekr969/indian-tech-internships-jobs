@@ -213,3 +213,34 @@ ABV-IIITM Gwalior
 - **Last updated:** 9 Oct 2026
 
 > Star the repo if it helped — keeps the curation going for the next batch.
+
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2027** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Past graduation - target the FTE openings instead |
+| **2025** | ✅ | Recent grad - typical intern eligibility window |
+| **2026** | ✅ | Just graduating - inside the standard intern window |
+| **2027** | ✅ | Named batch in the posting - the intended cohort |
+| **2028** | ⚠️ | Prefinal-year - possible if the posting has no batch filter |
+| **2029** | ❌ | 1st year - too early for a production intern seat |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **product, strategy or business** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ⚠️ | Only with strong product/analytics work |
+| **Information Technology (IT)** | ⚠️ | Only with strong product/analytics work |
+| **Electronics & Communication (ECE)** | ❌ | Not the profile this function hires |
+| **Electrical Engineering (EE)** | ❌ | Not the profile this function hires |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Machine Learning (ML)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Data Science (DS)** | ✅ | Strong fit for analytics-led product functions |
+| **Mathematics / Statistics** | ✅ | Strong fit for quantitative product functions |
+

@@ -225,3 +225,33 @@ Register: https://unstop.com/competitions/crp-get-unstoppable-on-linkedin-linked
 
 > **Last updated:** 8 Oct 2026
 > 🎯 **The best ROI is NOT just the ₹10K cash prize — it's the Top 500 LinkedIn Next Gen Club invitation + LinkedIn Editorial feature + 5 months of daily problem-solving + content creation habits. Free to enter, 20-day registration window, ~5 months to win.**
+---
+
+## 📋 Eligible Batches & Fit
+
+> The experience band in this posting reads as **intern**, which drives the fit column below.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Past graduation - target the FTE openings instead |
+| **2025** | ✅ | Recent grad - typical intern eligibility window |
+| **2026** | ✅ | Just graduating - inside the standard intern window |
+| **2027** | ✅ | Final-year B.Tech - the sweet spot for intern roles |
+| **2028** | ⚠️ | Prefinal-year - possible if the posting has no batch filter |
+| **2029** | ❌ | 1st year - too early for a production intern seat |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **product, strategy or business** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ⚠️ | Only with strong product/analytics work |
+| **Information Technology (IT)** | ⚠️ | Only with strong product/analytics work |
+| **Electronics & Communication (ECE)** | ❌ | Not the profile this function hires |
+| **Electrical Engineering (EE)** | ❌ | Not the profile this function hires |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Machine Learning (ML)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Data Science (DS)** | ✅ | Strong fit for analytics-led product functions |
+| **Mathematics / Statistics** | ✅ | Strong fit for quantitative product functions |
+

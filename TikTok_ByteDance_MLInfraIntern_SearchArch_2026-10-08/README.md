@@ -260,3 +260,33 @@ Best,
 
 > **Last updated:** 8 Oct 2026
 > 🎯 **Reality check: This role is highly specialized + primarily US-based. Best fit = 2028 batch PhD/MS students with strong CUDA + LLM inference experience, OR 2027 batch Indian students going for MS in the US. For most Indian undergrads, this is a "watch and learn" role — study the GPU programming / LLM systems space but don't count on applying.**
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2029** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2027** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2028** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2029** | ✅ | Named batch in the posting - the intended cohort |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **data, ML or analytics** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | CS + statistics is the standard profile |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Possible with a strong data/ML project |
+| **Electrical Engineering (EE)** | ⚠️ | Possible with a strong data/ML project |
+| **Artificial Intelligence (AI)** | ✅ | Direct fit for an AI/ML seat |
+| **Machine Learning (ML)** | ✅ | Direct fit |
+| **Data Science (DS)** | ✅ | Direct fit |
+| **Mathematics / Statistics** | ✅ | Direct fit where statistics is central |
+

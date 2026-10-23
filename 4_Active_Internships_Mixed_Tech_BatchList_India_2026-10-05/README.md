@@ -335,3 +335,20 @@ Apply to 3+ roles. Best window is NOW! 🚀
 
 > **Last updated:** 5 Oct 2026
 > 🎯 **Apply to all 3 within 24 hours. Top leverage — Rapido (CTC) + Swish (easy apply) + Ixigo (voice AI domain).**
+---
+
+## 📋 Eligible Branches / Disciplines
+
+> **Open event - any branch is welcome**, including non-technical builders.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Open event - no academic branch filter |
+| **Information Technology (IT)** | ✅ | Open event - no academic branch filter |
+| **Electronics & Communication (ECE)** | ✅ | Open event - no academic branch filter |
+| **Electrical Engineering (EE)** | ✅ | Open event - no academic branch filter |
+| **Artificial Intelligence (AI)** | ✅ | Open event - no academic branch filter |
+| **Machine Learning (ML)** | ✅ | Open event - no academic branch filter |
+| **Data Science (DS)** | ✅ | Open event - no academic branch filter |
+| **Mathematics / Statistics** | ✅ | Open event - no academic branch filter |
+

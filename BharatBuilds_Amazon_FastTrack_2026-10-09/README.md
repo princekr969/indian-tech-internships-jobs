@@ -163,3 +163,33 @@ Apply: https://t.co/HKIsWEBD0Y
 - **Last updated:** 9 Oct 2026
 
 > Star the repo if it helped — keeps the curation going for the next batch.
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2027** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Past graduation - target the FTE openings instead |
+| **2025** | ✅ | Recent grad - typical intern eligibility window |
+| **2026** | ✅ | Just graduating - inside the standard intern window |
+| **2027** | ✅ | Named batch in the posting - the intended cohort |
+| **2028** | ⚠️ | Prefinal-year - possible if the posting has no batch filter |
+| **2029** | ❌ | 1st year - too early for a production intern seat |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **DevOps, SRE or cloud/platform** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ✅ | Standard source for SRE and cloud roles |
+| **Information Technology (IT)** | ✅ | Same curriculum as CS for this purpose |
+| **Electronics & Communication (ECE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Electrical Engineering (EE)** | ⚠️ | Viable with Linux/networking project depth |
+| **Artificial Intelligence (AI)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Machine Learning (ML)** | ⚠️ | Only if you can show infrastructure work, not notebooks |
+| **Data Science (DS)** | ⚠️ | Some overlap through pipelines and data platforms |
+| **Mathematics / Statistics** | ❌ | Infrastructure work needs a systems background |
+

@@ -215,3 +215,33 @@ Best,
 
 > **Last updated:** 8 Oct 2026
 > 🎯 **For 2027 batch:** This is a CEO Office strategy role — needs consulting/banking/fintech experience + quantitative degree. Pure SWE students won't qualify. **For 2028 batch with strategy/consulting exposure:** This is a flagship opportunity — top-of-market comp + direct CEO exposure + high PPO conversion. Apply within 2 weeks.**
+---
+
+## 📋 Eligible Batches & Fit
+
+> This posting names **batch 2029** as the target cohort, so that year is the clear fit and the neighbouring years depend on how the portal filters campus applications.
+
+| Batch (Graduation Year) | Fit | Why |
+|---|---|---|
+| **2024** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2025** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2026** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2027** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2028** | ⚠️ | Earlier cohort - this posting targets batch 2029; look at the full-time openings instead |
+| **2029** | ✅ | Named batch in the posting - the intended cohort |
+
+## 📋 Eligible Branches / Disciplines
+
+> This posting reads as **product, strategy or business** work, which drives the fit column below. Where the JD names specific degrees, those names win over this table.
+
+| Branch / Discipline | Fit | Why |
+|---|---|---|
+| **Computer Science (CS / CSE)** | ⚠️ | Only with strong product/analytics work |
+| **Information Technology (IT)** | ⚠️ | Only with strong product/analytics work |
+| **Electronics & Communication (ECE)** | ❌ | Not the profile this function hires |
+| **Electrical Engineering (EE)** | ❌ | Not the profile this function hires |
+| **Artificial Intelligence (AI)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Machine Learning (ML)** | ⚠️ | Viable for AI-product or analytics functions |
+| **Data Science (DS)** | ✅ | Strong fit for analytics-led product functions |
+| **Mathematics / Statistics** | ✅ | Strong fit for quantitative product functions |
+
