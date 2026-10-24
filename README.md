@@ -3,9 +3,9 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 23 Oct 2026, 3:05 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 24 Oct 2026, 8:55 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-23%20Oct%202026%203%3A05%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Last Updated](https://img.shields.io/badge/last%20updated-24%20Oct%202026%208%3A55%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
 [![Entries](https://img.shields.io/badge/entries-89%2B-green)](.)
 [![Eligibility](https://img.shields.io/badge/Eligible%20Batches%20%2B%20Eligible%20Branches-100%25%20of%20entries-success)]()
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
@@ -31,6 +31,14 @@
 ---
 
 ## 🆕 Recent Updates (Last 2 Days)
+
+### 📅 24 Oct 2026 (Sat) — CoinSwitch Entry Re-Verified ✅
+
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[CoinSwitch / PeepalCo](CoinSwitch_EngineeringIntern_Bengaluru_2026-10-22/)** ✅ | Engineering Intern (Job ID **92951**) — Python / Golang / Java / React Native | Not published (est. ₹4–5 LPA equiv.) | Bengaluru |
+
+> ✅ The CoinSwitch posting is **live again** — the full official JD has been re-read from `peepalco.keka.com/careers/jobdetails/92951` (24 Oct 2026). Added: founders (Ashish Singhal, Govind Soni, Vimal Sagar Tiwari), investors (a16z, Tiger Global, Peak XV, Ribbit, Paradigm, Coinbase Ventures), legal entity (Bitkuber Investments Pvt Ltd), 400+ headcount, culture values and perks, plus all 6 other open CoinSwitch roles. ⚠️ Apply on the official portal — one circulating link goes to the `acciojob.com` aggregator.
 
 ### 📅 23 Oct 2026 (Fri) — 2 NEW Entries + Repo-wide Eligibility Fix ✅
 
@@ -373,7 +381,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 23 Oct 2026, 3:05 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 24 Oct 2026, 8:55 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
