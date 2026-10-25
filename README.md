@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 24 Oct 2026, 8:55 AM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 25 Oct 2026, 1:05 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-24%20Oct%202026%208%3A55%20AM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-89%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-25%20Oct%202026%201%3A05%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-90%2B-green)](.)
 [![Eligibility](https://img.shields.io/badge/Eligible%20Batches%20%2B%20Eligible%20Branches-100%25%20of%20entries-success)]()
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
@@ -31,6 +31,14 @@
 ---
 
 ## 🆕 Recent Updates (Last 2 Days)
+
+### 📅 25 Oct 2026 (Sun) — 1 NEW Entry Added 🚨
+
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[Sony Research India](SonyResearchIndia_DataScienceIntern_Bengaluru_2026-10-25/)** 🆕 | Data Science Intern (AI Intern) — **Video Analysis + LLMs**, PyTorch/TensorFlow/JAX · Job 4478080141 | Paid, not disclosed | Remote within India · Bengaluru |
+
+> ⚠️ **Over 200 applicants** on this one. **6-month paid cohort starting first week of Nov 2026** (9-18 IST). Referrals roughly **double** interview chances per LinkedIn. Eligible branches: **CS / DS / Statistics / Mathematics / AI-ML** — the broadest branch list in the repo. *Separate from the existing Sony LLM Research Intern entry (Job 4478061801, March 2026 start).*
 
 ### 📅 24 Oct 2026 (Sat) — CoinSwitch Entry Re-Verified ✅
 
@@ -217,6 +225,7 @@ This repository contains **89+ curated entries** organized into individual folde
 | `6Jobs_Combined_HPE_CloudSEK_Qualcomm_Walmart_Amazon_MLH_VizagHackathon_2026-10-19/` 🆕 | 6-Jobs Combined: HPE + CloudSEK + Qualcomm + Walmart + Amazon + MLH Vizag | BLR / Hyd / Chennai / Noida / Vizag |
 | `CoinSwitch_EngineeringIntern_Bengaluru_2026-10-22/` 🆕 | Engineering Intern (Python/Golang/Java/React Native — PeepalCo) | Greater Bengaluru |
 | `ElectronicArts_JAVASoftwareEngineerIntern_Hyderabad_2026-10-23/` 🆕 | JAVA SWE Intern — EADP (Java/Scala, Microservices, Docker, K8s) | Hyderabad (Hybrid) |
+| `SonyResearchIndia_DataScienceIntern_Bengaluru_2026-10-25/` 🆕 | Data Science Intern — Video Analysis + LLMs (Job 4478080141) | Remote within India (Bengaluru) |
 
 ### 📊 Bundle & Master Lists
 
@@ -307,9 +316,9 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **89+** |
+| Total curated entries | **90+** |
 | Companies covered | **40+** |
-| Internship roles | **35+** |
+| Internship roles | **36+** |
 | Full-time roles (FTE) | **14+** |
 | Hackathons / competitions | **12+** |
 | PPI / challenge pathways | **3+** |
@@ -381,7 +390,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 24 Oct 2026, 8:55 AM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 25 Oct 2026, 1:05 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
