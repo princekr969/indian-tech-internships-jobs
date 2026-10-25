@@ -29,6 +29,8 @@
 
 > **What “2028 batch” means here.** A 2028-batch B.Tech student joined in **August 2024** and graduates in **May/June 2028**. As of 25 Oct 2026 they are in **3rd year, 5th semester**. Their summer-2027 internship is their **pre-final-year** internship, and their 8th-semester summer (2028) is the **final-year / PPO** internship. Every fit call in this brief is judged against that timeline.
 
+> 🔗 **Looking for the 2027 batch?** The **2026–27 campus cycle is open right now** — TCS NQT, Infosys SE, Cognizant GenC, Salesforce Futureforce and Cisco all take the 2027 batch. See the [**2027-batch brief**](../All_2027_Batch_Openings_India_BTechCS_2026-10-25/), which also tracks 13 mass-recruit drives with their live status.
+
 ---
 
 ## 📋 Eligible Batches & Fit
