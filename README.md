@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 25 Oct 2026, 1:05 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 25 Oct 2026, 8:36 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-25%20Oct%202026%201%3A05%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-90%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-25%20Oct%202026%208%3A36%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-91%2B-green)](.)
 [![Eligibility](https://img.shields.io/badge/Eligible%20Batches%20%2B%20Eligible%20Branches-100%25%20of%20entries-success)]()
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
@@ -32,13 +32,16 @@
 
 ## 🆕 Recent Updates (Last 2 Days)
 
-### 📅 25 Oct 2026 (Sun) — 1 NEW Entry Added 🚨
+### 📅 25 Oct 2026 (Sun) — 2 NEW Entries Added 🚨
 
 | Company | Role | Stipend / CTC | Location |
 |---|---|---|---|
 | **[Sony Research India](SonyResearchIndia_DataScienceIntern_Bengaluru_2026-10-25/)** 🆕 | Data Science Intern (AI Intern) — **Video Analysis + LLMs**, PyTorch/TensorFlow/JAX · Job 4478080141 | Paid, not disclosed | Remote within India · Bengaluru |
+| **[All Open 2028-Batch Opportunities](All_2028_Batch_Openings_India_BTechCS_2026-10-25/)** 🆕 | **Master brief — 713 openings** (625 LinkedIn jobs · 21 aggregator internships · 67 hackathons), tiered FTE / PPO / PPI / internship / hackathon | ₹10K–₹25K/mo internships | Pan-India |
 
 > ⚠️ **Over 200 applicants** on this one. **6-month paid cohort starting first week of Nov 2026** (9-18 IST). Referrals roughly **double** interview chances per LinkedIn. Eligible branches: **CS / DS / Statistics / Mathematics / AI-ML** — the broadest branch list in the repo. *Separate from the existing Sony LLM Research Intern entry (Job 4478061801, March 2026 start).*
+
+> 🧭 **The 2028-batch master brief** is the biggest single sweep in this repo: **1,858 LinkedIn job IDs pulled across ~290 keyword × city queries, 985 full job descriptions parsed**, then filtered to India + CS/IT + entry-level. Result: **713 live openings**, each with the batch-eligibility evidence quoted from the posting itself. It carries **both mandatory tables** (Eligible Batches 2024→2029, Eligible Branches CS→Math) and an honest finding: **only 1 of 1,858 postings named "2028 batch" outright** — the 2028 campus cycle opens ~Aug 2027. What a 2028 batch can actually apply to today is **97 pre-final-year / fresher openings**, plus **67 student-eligible hackathons**.
 
 ### 📅 24 Oct 2026 (Sat) — CoinSwitch Entry Re-Verified ✅
 
@@ -158,7 +161,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **89+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **91+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -234,6 +237,7 @@ This repository contains **89+ curated entries** organized into individual folde
 | `All_Active_2027_Batch_Jobs_MasterList_India_2026-10-03/` | Master list of 2027 batch openings |
 | `All_Active_2028_Batch_Jobs_MasterList_India_2026-10-03/` | Master list of 2028 batch openings |
 | `All_2028_Batch_ActiveJobOpenings_India_2026-10-08/` | Updated 2028 batch sweep |
+| `All_2028_Batch_Openings_India_BTechCS_2026-10-25/` 🆕 | **Full 2028-batch brief — 713 openings** (625 LinkedIn jobs + 21 aggregator internships + 67 hackathons), tiered FTE / PPO / PPI / internship / hackathon |
 | `All_HighStipend_Internships_PPO_12LPA_India_2026-10-07/` | Internships with ≥₹12 LPA PPO |
 | `4_Active_Internships_Mixed_Tech_BatchList_India_2026-10-05/` | Ixigo + Rapido + Swish bundle |
 | `6_ActiveJobs_FresherIntern_Bundle_Bengaluru_2026-10-07/` | Evolute + StartupMeu + Weekday + Lanmea + Smytten + HPE bundle |
@@ -316,13 +320,14 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **90+** |
+| Total curated entries | **91+** |
 | Companies covered | **40+** |
 | Internship roles | **36+** |
 | Full-time roles (FTE) | **14+** |
-| Hackathons / competitions | **12+** |
-| PPI / challenge pathways | **3+** |
-| Master lists / bundles | **6** |
+| Hackathons / competitions | **79+** |
+| PPI / challenge pathways | **4+** |
+| Master lists / bundles | **7** |
+| **Openings indexed inside master briefs** | **713** (2028-batch sweep) |
 | Batch coverage | **2026 / 2027 / 2028 / 2029** |
 | Geography | Bengaluru, Hyderabad, Chennai, Mumbai, Delhi NCR, Pan-India, Remote, US |
 
@@ -390,7 +395,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 25 Oct 2026, 1:05 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 25 Oct 2026, 8:36 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
