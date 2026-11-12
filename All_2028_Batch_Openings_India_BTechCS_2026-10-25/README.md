@@ -4141,7 +4141,7 @@
 | **Cipher Chase — Capture the Flag** | International Institute of Information Technology (IIIT), Bangalore | Online | 2026-11-12 (closes today) | See listing | [Open](https://unstop.com/hackathons/cipher-chase-capture-the-flag-synergy-26-international-institute-of-information-technology-iiit-bangalore-1763268) |
 | **Pokerbots** | International Institute of Information Technology (IIIT), Bangalore | Online | 2026-11-12 (closes today) | See listing | [Open](https://unstop.com/hackathons/pokerbots-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762863) |
 | **The Liar's Chatroom** | International Institute of Information Technology (IIIT), Bangalore | Online | 2026-11-12 (closes today) | See listing | [Open](https://unstop.com/hackathons/the-liars-chatroom-international-institute-of-information-technology-iiit-bangalore-1762783) |
-| **PayPal AI Hackathon** | Online | Online | 2026-11-12 (closes today) | $ 67,500 | [Open](https://paypalaihackathon.devpost.com/) |
+| **PayPal AI Hackathon** | — | Online | 2026-11-12 (closes today) | $ 67,500 | [Open](https://paypalaihackathon.devpost.com/) |
 | **Build, Demo, and Take Home a Working AI Support Bot** | eGain Corp. | In person | 2026-11-12 (closes today) | $ 750 | [Open](https://build-a-working-ai-support-bot.devpost.com/) |
 | **Deltahacks X Backboard.io** | Marinucci Entrepreneurial Bridge | In person | 2026-11-12 (closes today) | $ 0 | [Open](https://deltahacksxbackboard.devpost.com/) |
 | **Haven Ahmedabad** | Hackclub | Offline | 2026-11-13 (1 day left) | See listing | [Open](https://unstop.com/hackathons/haven-ahmedabad-hackclub-1769964) |
@@ -4155,9 +4155,9 @@
 | **MassX CTF 2026** | Panipat Institute of Engineering & Technology (PIET), Panipat | Online | 2026-11-14 (2 days left) | See listing | [Open](https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573) |
 | **WebClone Mania** | National Institute of Technology (NIT), Rourkela | Offline | 2026-11-14 (2 days left) | See listing | [Open](https://unstop.com/hackathons/webclone-mania-nit-rourkela-1783135) |
 | **InIt CTF** | HIII (Hackers In India) | Online | 2026-11-14 (2 days left) | See listing | [Open](https://unstop.com/hackathons/init-ctf-init-ctf-hiii-hackers-in-india-1763117) |
-| **Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration** | Online | Online | 2026-11-14 (2 days left) | $CAD 1,400 | [Open](https://scope-ai-thon-2026.devpost.com/) |
-| **BUHACK 2.0** | Online | Online | 2026-11-14 (2 days left) | $ 0 | [Open](https://buhack-2.devpost.com/) |
-| **CIVIC Hack 2026** | Online | Online | 2026-11-14 (2 days left) | $CAD 1,500 | [Open](https://civic-hack-2026.devpost.com/) |
+| **Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration** | — | Online | 2026-11-14 (2 days left) | $CAD 1,400 | [Open](https://scope-ai-thon-2026.devpost.com/) |
+| **BUHACK 2.0** | — | Online | 2026-11-14 (2 days left) | $ 0 | [Open](https://buhack-2.devpost.com/) |
+| **CIVIC Hack 2026** | — | Online | 2026-11-14 (2 days left) | $CAD 1,500 | [Open](https://civic-hack-2026.devpost.com/) |
 | **System Public Challenge** | System HQ | In person | 2026-11-14 (2 days left) | $ 7,500 | [Open](https://system-public-challenge.devpost.com/) |
 | **IBM Qiskit Hackathon - Bangladesh** | BRAC University | In person | 2026-11-14 (2 days left) | $ 0 | [Open](https://ibm-qiskit-hackathon.devpost.com/) |
 | **SearchHack: Build the next layer of AI search** | Sunnyvale | In person | 2026-11-14 (2 days left) | $ 0 | [Open](https://searchhack.devpost.com/) |
@@ -4168,7 +4168,7 @@
 | **Haven Richmond** | Richmond, Virginia, USA | In person | 2026-11-14 (2 days left) | $ 500 | [Open](https://haven-richmond.devpost.com/) |
 | **WiseStart 2026 Hackathon: Tallinn** | Wise Tallinn | In person | 2026-11-14 (2 days left) | € 0 | [Open](https://wisestart-2026-tll.devpost.com/) |
 | **BYU-Idaho: i-Hack 2026: Reinventing the Past** | Science &amp; Technology Building (STC) | In person | 2026-11-14 (2 days left) | $ 0 | [Open](https://ihack-2026.devpost.com/) |
-| **LPC Hacks** | Online | Online | 2026-11-14 (2 days left) | $ 0 | [Open](https://lpc-hacks.devpost.com/) |
+| **LPC Hacks** | — | Online | 2026-11-14 (2 days left) | $ 0 | [Open](https://lpc-hacks.devpost.com/) |
 | **Haven Philly** | Drexel University CCI Building | In person | 2026-11-14 (2 days left) | $ 0 | [Open](https://haven-philly.devpost.com/) |
 | **BuildSprint** | Workelate | Hybrid | 2026-11-15 (3 days left) | See listing | [Open](https://unstop.com/hackathons/buildsprint-workelate-1794884) |
 | **Game of Codes** | National Institute of Technology (NIT), Agartala | Offline | 2026-11-15 (3 days left) | See listing | [Open](https://unstop.com/hackathons/game-of-codes-national-institute-of-technology-nit-agartala-1797379) |
@@ -4190,14 +4190,14 @@
 | **Hack The Nest** | Ypsilanti, Michigan | Physical | 2026-11-15 (3 days left) | See listing | [Open](https://hackthenest.tech/) |
 | **DurHack** | Durham, County Durham | Physical | 2026-11-15 (3 days left) | See listing | [Open](https://durhack.com) |
 | **sunhacks** | Tempe, Arizona | Physical | 2026-11-15 (3 days left) | See listing | [Open](https://2026.sunhacks.io/) |
-| **DSH Hacks V2 ($100k+ in prizes!)** | Online | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://dsh-hacks-v2.devpost.com/) |
-| **IceHacks** | Online | Online | 2026-11-15 (3 days left) | $ 17,150 | [Open](https://icehacks.devpost.com/) |
-| **STEMergent Hacks 2026** | Online | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://stemergent-hacks.devpost.com/) |
-| **Mathematics for systems security** | Online | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://mathematics-systems-security.devpost.com/) |
-| **DataJam 2026** | Online | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://datajam-2026.devpost.com/) |
+| **DSH Hacks V2 ($100k+ in prizes!)** | — | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://dsh-hacks-v2.devpost.com/) |
+| **IceHacks** | — | Online | 2026-11-15 (3 days left) | $ 17,150 | [Open](https://icehacks.devpost.com/) |
+| **STEMergent Hacks 2026** | — | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://stemergent-hacks.devpost.com/) |
+| **Mathematics for systems security** | — | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://mathematics-systems-security.devpost.com/) |
+| **DataJam 2026** | — | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://datajam-2026.devpost.com/) |
 | **Hack the Harvest** | Aggie Square | In person | 2026-11-15 (3 days left) | $ 5,000 | [Open](https://hack-the-harvest.devpost.com/) |
 | **Stupid Ideas Hackathon (Ottawa F26)** | Bayview Yards | In person | 2026-11-15 (3 days left) | $CAD 1,252 | [Open](https://stupideas-ottawa-f26.devpost.com/) |
-| **NorCal Hacks 27** | Online | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://norcal-hacks-27.devpost.com/) |
+| **NorCal Hacks 27** | — | Online | 2026-11-15 (3 days left) | $ 0 | [Open](https://norcal-hacks-27.devpost.com/) |
 | **Hack-a-ton with Friends** | DOW Theatre | In person | 2026-11-15 (3 days left) | $ 0 | [Open](https://hack-a-ton-with-friends.devpost.com/) |
 | **SanD Hacks** | Qualcomm Conference Room | In person | 2026-11-15 (3 days left) | $ 2,250 | [Open](https://sand-hacks-26.devpost.com/) |
 | **ONHacks** | Polish Combatants' Hall | In person | 2026-11-15 (3 days left) | $ 0 | [Open](https://onhacks.devpost.com/) |
@@ -4219,15 +4219,15 @@
 | **DurHack 2026** | Teaching and Learning Centre | In person | 2026-11-15 (3 days left) | £ 0 | [Open](https://durhack-26.devpost.com/) |
 | **Emory Hacks 2026** | Emory Univ. - Goizueta Business School | In person | 2026-11-15 (3 days left) | $ 0 | [Open](https://emory-hacks-26.devpost.com/) |
 | **Hack-a-Sol 5.0** | International Institute of Information Technology (IIIT), Naya Raipur | Offline | 2026-11-16 (4 days left) | See listing | [Open](https://unstop.com/hackathons/hack-a-sol-50-international-institute-of-information-technology-iiit-naya-raipur-1786809) |
-| **UGREEN Hackathon 2026 on AI NAS** | Online | Online | 2026-11-16 (4 days left) | $ 46,000 | [Open](https://ugreenhackathon.devpost.com/) |
-| **Technology x Health: Amador Valley Girls Who Code Hackathon** | Online | Online | 2026-11-16 (4 days left) | $ 0 | [Open](https://ai-x-health-hackathon-avgwc.devpost.com/) |
-| **Fall 2026 Projects** | Online | Online | 2026-11-16 (4 days left) | $ 0 | [Open](https://fall-2026-projects.devpost.com/) |
+| **UGREEN Hackathon 2026 on AI NAS** | — | Online | 2026-11-16 (4 days left) | $ 46,000 | [Open](https://ugreenhackathon.devpost.com/) |
+| **Technology x Health: Amador Valley Girls Who Code Hackathon** | — | Online | 2026-11-16 (4 days left) | $ 0 | [Open](https://ai-x-health-hackathon-avgwc.devpost.com/) |
+| **Fall 2026 Projects** | — | Online | 2026-11-16 (4 days left) | $ 0 | [Open](https://fall-2026-projects.devpost.com/) |
 | **Goblet of Codes** | Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh | Offline | 2026-11-17 (5 days left) | See listing | [Open](https://unstop.com/hackathons/goblet-of-codes-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1798470) |
 | **Hack Paradise** | Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh | Offline | 2026-11-17 (5 days left) | See listing | [Open](https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030) |
 | **Singularity** | Keshav Mahavidyalaya (KMV), University of Delhi (DU), Delhi | Hybrid | 2026-11-17 (5 days left) | See listing | [Open](https://unstop.com/hackathons/singularity-keshav-mahavidyalaya-kmv-university-of-delhi-du-delhi-1786997) |
 | **FirstCommit '26 — National Online Hackathon** | Campus Code | Online | 2026-11-17 (5 days left) | See listing | [Open](https://unstop.com/hackathons/firstcommit-26-national-online-hackathon-by-campuscode-campus-code-1772846) |
-| **Green Shift Hacks** | Online | Online | 2026-11-17 (5 days left) | $ 125 | [Open](https://green-shift-hacks.devpost.com/) |
-| **CRC Hacks** | Online | Online | 2026-11-17 (5 days left) | $ 0 | [Open](https://crc-student-hackathon.devpost.com/) |
+| **Green Shift Hacks** | — | Online | 2026-11-17 (5 days left) | $ 125 | [Open](https://green-shift-hacks.devpost.com/) |
+| **CRC Hacks** | — | Online | 2026-11-17 (5 days left) | $ 0 | [Open](https://crc-student-hackathon.devpost.com/) |
 | **Bharat Builds Tour** | jaipur | In person | 2026-11-17 (5 days left) | $ 0 | [Open](https://bharat-builds-tour.devpost.com/) |
 | **Rewired (Tech Hackathon)** | Masters Union School of Business | Hybrid | 2026-11-18 (6 days left) | See listing | [Open](https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400) |
 | **HierroCTF 2026 – Capture The Flag (CTF) Competition** | Hierroshield Pvt Ltd | Hybrid | 2026-11-18 (6 days left) | See listing | [Open](https://unstop.com/hackathons/hierroctf-2026-capture-the-flag-ctf-competition-hierroshield-pvt-ltd-1800358) |
@@ -4236,18 +4236,18 @@
 | **Madlab - The Ultimate Innovation Hackathon** | Shri Chinai College of Commerce & Economics | Online | 2026-11-18 (6 days left) | See listing | [Open](https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416) |
 | **Build 2 Rise 2026** | Krixov | Online | 2026-11-18 (6 days left) | See listing | [Open](https://unstop.com/hackathons/build-2-rise-2026-krixov-1775217) |
 | **Building Medical Tourism Platform** | EthAum Venture Partners | Online | 2026-11-18 (6 days left) | See listing | [Open](https://unstop.com/hackathons/building-medical-tourism-platform-ethaum-venture-partners-1763060) |
-| **Meta VR Start Developer Competition 2026** | Online | Online | 2026-11-18 (6 days left) | $ 1,000,000 | [Open](https://start-developer-competition-26.devpost.com/) |
-| **GWC Projects Program Fall 2026** | Online | Online | 2026-11-18 (6 days left) | $ 0 | [Open](https://projects-program-fall-2026.devpost.com/) |
+| **Meta VR Start Developer Competition 2026** | — | Online | 2026-11-18 (6 days left) | $ 1,000,000 | [Open](https://start-developer-competition-26.devpost.com/) |
+| **GWC Projects Program Fall 2026** | — | Online | 2026-11-18 (6 days left) | $ 0 | [Open](https://projects-program-fall-2026.devpost.com/) |
 | **Prompt to Product** | Acharya Institute of Technology | Offline | 2026-11-19 (7 days left) | See listing | [Open](https://unstop.com/hackathons/prompt-to-product-acharya-institute-of-technology-1771961) |
 | **Capture The Flag** | Acharya Institute of Technology | Offline | 2026-11-19 (7 days left) | See listing | [Open](https://unstop.com/hackathons/capture-the-flag-acharya-institute-of-technology-1771958) |
 | **DataNyx'26** | Muffakham Jah College of Engineering and Technology (MJCET), Hyderabad | Offline | 2026-11-19 (7 days left) | See listing | [Open](https://unstop.com/hackathons/datanyx26-muffakham-jah-college-of-engineering-and-technology-mjcet-hyderabad-1771537) |
-| **WQCC Qiskit Fall Fest 2026** | Online | Online | 2026-11-19 (7 days left) | $ 0 | [Open](https://wqcc-qiskit-fall-fest-2026.devpost.com/) |
-| **FCA Hacks** | Online | Online | 2026-11-19 (7 days left) | $ 0 | [Open](https://lis-hack-day.devpost.com/) |
+| **WQCC Qiskit Fall Fest 2026** | — | Online | 2026-11-19 (7 days left) | $ 0 | [Open](https://wqcc-qiskit-fall-fest-2026.devpost.com/) |
+| **FCA Hacks** | — | Online | 2026-11-19 (7 days left) | $ 0 | [Open](https://lis-hack-day.devpost.com/) |
 | **Competitive Programming** | Acharya Institute of Technology | Offline | 2026-11-20 (8 days left) | See listing | [Open](https://unstop.com/hackathons/competitive-programming-acharya-institute-of-technology-1771951) |
 | **Bug Bounty: Multiverse Wars Competition** | Hackosquad | Online | 2026-11-20 (8 days left) | See listing | [Open](https://unstop.com/hackathons/bug-bounty-multiverse-wars-competition-hackosquadctf-1775867) |
 | **From Prompt to Performance** | Mozark | Online | 2026-11-20 (8 days left) | See listing | [Open](https://unstop.com/hackathons/from-prompt-to-performance-mozark-1762305) |
-| **AccessED Hacks** | Online | Online | 2026-11-20 (8 days left) | $ 225 | [Open](https://accessed-hacks.devpost.com/) |
-| **Dakar Bitcoin Hack by BTrust** | Online | Online | 2026-11-20 (8 days left) | $ 900 | [Open](https://dakar-bitcoin-hack-2026.devpost.com/) |
+| **AccessED Hacks** | — | Online | 2026-11-20 (8 days left) | $ 225 | [Open](https://accessed-hacks.devpost.com/) |
+| **Dakar Bitcoin Hack by BTrust** | — | Online | 2026-11-20 (8 days left) | $ 900 | [Open](https://dakar-bitcoin-hack-2026.devpost.com/) |
 | **University Blockchain Conference Hackathon 2026** | University of Texas at Austin | In person | 2026-11-20 (8 days left) | $ 22,000 | [Open](https://ubc-hackathon-2026.devpost.com/) |
 | **Build with Gemma - Innovate in Windsor** | University of Windsor | In person | 2026-11-20 (8 days left) | $CAD 0 | [Open](https://innovate-in-windsor-hackathon.devpost.com/) |
 | **Pixelforge** | Dayananda sagar academy | In person | 2026-11-20 (8 days left) | ₹ 0 | [Open](https://pixel-forge-gamethon.devpost.com/) |
@@ -4266,9 +4266,9 @@
 | **Build with Agora - BLR** | KNOTiC | Offline | 2026-11-21 (9 days left) | See listing | [Open](https://unstop.com/hackathons/build-with-agora-blr-knotic-1773211) |
 | **Build Your Bharat Hackathon (BYB)** | Next Bharat Ventures | Offline | 2026-11-21 (9 days left) | See listing | [Open](https://unstop.com/hackathons/build-your-bharat-hackathon-byb-build-your-bharatbyb-hackathon-next-bharat-ventures-1770621) |
 | **InnovaThon - Faculty of Engineering and Technology Agra College X Nimblux** | NIMBLUX | Hybrid | 2026-11-21 (9 days left) | See listing | [Open](https://unstop.com/hackathons/innovathon-faculty-of-engineering-and-technology-agra-college-x-nimblux-nimblux-1770284) |
-| **STEM2Connect AI Hackathon** | Online | Online | 2026-11-21 (9 days left) | $ 0 | [Open](https://stem2connect-online-hackathon.devpost.com/) |
-| **Bridge The Gap Hacks** | Online | Online | 2026-11-21 (9 days left) | $ 0 | [Open](https://sq-hacks.devpost.com/) |
-| **Teens Hack Houston Hackathon** | Online | Online | 2026-11-21 (9 days left) | $ 300 | [Open](https://tripleh.devpost.com/) |
+| **STEM2Connect AI Hackathon** | — | Online | 2026-11-21 (9 days left) | $ 0 | [Open](https://stem2connect-online-hackathon.devpost.com/) |
+| **Bridge The Gap Hacks** | — | Online | 2026-11-21 (9 days left) | $ 0 | [Open](https://sq-hacks.devpost.com/) |
+| **Teens Hack Houston Hackathon** | — | Online | 2026-11-21 (9 days left) | $ 300 | [Open](https://tripleh.devpost.com/) |
 | **Nerdearla Vibeathon by Devin** | Amazon CDMX (Puerta Polanco) | In person | 2026-11-21 (9 days left) | $ 0 | [Open](https://vibeathon-mexico-2026.devpost.com/) |
 | **DevFest Münster 2026: Agentic AI Hackathon** | Volkshochschule | In person | 2026-11-21 (9 days left) | $ 0 | [Open](https://devfest-ai-hackathon.devpost.com/) |
 | **Cutie Hack 2026** | UC Riverside - Winston Chung Hall | In person | 2026-11-21 (9 days left) | $ 0 | [Open](https://cutie-hack-2026.devpost.com/) |
@@ -4282,39 +4282,39 @@
 | **Tech For Community 2026** | St. John's, Newfoundland and Labrador / Avalon Peninsula | Physical | 2026-11-22 (10 days left) | See listing | [Open](https://tecnurtur.org/hackathon) |
 | **WHACK (Wellesley Hackathon)** | Wellesley , Massachesetts | Physical | 2026-11-22 (10 days left) | See listing | [Open](https://www.wellesleyhacks.org/) |
 | **BostonHacks** | Boston, MA | Physical | 2026-11-22 (10 days left) | See listing | [Open](https://bostonhacks.org/) |
-| **SafeSpace Hacks** | Online | Online | 2026-11-22 (10 days left) | $ 280 | [Open](https://safespace-hacks.devpost.com/) |
-| **CrossPointX 2026** | Online | Online | 2026-11-22 (10 days left) | $ 0 | [Open](https://cpx2026.devpost.com/) |
+| **SafeSpace Hacks** | — | Online | 2026-11-22 (10 days left) | $ 280 | [Open](https://safespace-hacks.devpost.com/) |
+| **CrossPointX 2026** | — | Online | 2026-11-22 (10 days left) | $ 0 | [Open](https://cpx2026.devpost.com/) |
 | **Hack Western 13** | Ronald D. Schmeichel Building | In person | 2026-11-22 (10 days left) | $CAD 0 | [Open](https://hack-western-13.devpost.com/) |
-| **KUK VIRTUAL HACKATHON** | Online | Online | 2026-11-22 (10 days left) | $ 800 | [Open](https://kuk-virtual-hackathon.devpost.com/) |
+| **KUK VIRTUAL HACKATHON** | — | Online | 2026-11-22 (10 days left) | $ 800 | [Open](https://kuk-virtual-hackathon.devpost.com/) |
 | **START Hack League Munich 2026** | TUM Audimax | In person | 2026-11-22 (10 days left) | € 4,000 | [Open](https://start-hack-league-munich-2026.devpost.com/) |
-| **EvoHacks 2** | Online | Online | 2026-11-22 (10 days left) | $ 27,629 | [Open](https://evohacks2.devpost.com/) |
+| **EvoHacks 2** | — | Online | 2026-11-22 (10 days left) | $ 27,629 | [Open](https://evohacks2.devpost.com/) |
 | **Housing Fintech Challenge** | Indian Institute of Technology (IIT), Bombay | Online | 2026-11-23 (11 days left) | See listing | [Open](https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bombay-1802169) |
 | **Expanding Horizons 8.0 Chemical** | Motilal Nehru National Institute of Technology | Online | 2026-11-23 (11 days left) | See listing | [Open](https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791) |
 | **Expanding Horizons 8.0 BIOTECH** | Motilal Nehru National Institute of Technology | Online | 2026-11-23 (11 days left) | See listing | [Open](https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790) |
 | **Trivora** | Hackhere | Hybrid | 2026-11-23 (11 days left) | See listing | [Open](https://unstop.com/hackathons/trivora-hackhere-1760462) |
-| **Taskforge** | Online | Online | 2026-11-24 (12 days left) | $ 0 | [Open](https://taskforge.devpost.com/) |
-| **OBSCURA: Satellite AI Research Challenge** | Online | Online | 2026-11-24 (12 days left) | $ 50 | [Open](https://obscura.devpost.com/) |
+| **Taskforge** | — | Online | 2026-11-24 (12 days left) | $ 0 | [Open](https://taskforge.devpost.com/) |
+| **OBSCURA: Satellite AI Research Challenge** | — | Online | 2026-11-24 (12 days left) | $ 50 | [Open](https://obscura.devpost.com/) |
 | **test** | NUTECH Main Campus | In person | 2026-11-24 (12 days left) | $ 0 | [Open](https://nutech-hackfest-2026.devpost.com/) |
-| **CSAIC Hack-AI-Thon** | Online | Online | 2026-11-24 (12 days left) | ₹ 0 | [Open](https://csaic-hackaithon.devpost.com/) |
+| **CSAIC Hack-AI-Thon** | — | Online | 2026-11-24 (12 days left) | ₹ 0 | [Open](https://csaic-hackaithon.devpost.com/) |
 | **Agentic AI in BFSI Hackathon** | Indian Institute of Technology (IIT), Bombay | Offline | 2026-11-25 (13 days left) | See listing | [Open](https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857) |
 | **Vibe Forge** | Nims University (NU), Jaipur | Offline | 2026-11-25 (13 days left) | See listing | [Open](https://unstop.com/hackathons/vibe-forge-nims-university-nu-jaipur-1772221) |
 | **VYTRON'26 (Hackathon)** | Droidecks | Online | 2026-11-25 (13 days left) | See listing | [Open](https://unstop.com/hackathons/vytron26-droidecks-1786652) |
 | **CMR HACKFEST 4.0** | CMR College of Engineering and Technology (CMRCET), Hyderabad | Offline | 2026-11-25 (13 days left) | See listing | [Open](https://unstop.com/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514) |
 | **Datanova 2026 Global Data-Thon - 1.7 Lakh prize money** | Swiss School of Management, Rome, Italy | Online | 2026-11-25 (13 days left) | See listing | [Open](https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646) |
-| **HackWithAditya** | Online | Online | 2026-11-25 (13 days left) | ₹ 500,000 | [Open](https://hackwithaditya.devpost.com/) |
-| **Hackathon Agéntico SoftwareChido 2026B** | Online | Online | 2026-11-25 (13 days left) | $ 0 | [Open](https://hackathon-agentico-2026b.devpost.com/) |
-| **Code For DFW** | Online | Online | 2026-11-25 (13 days left) | $ 0 | [Open](https://code-for-dfw.devpost.com/) |
-| **BuildyourOwnWebsite** | Online | Online | 2026-11-25 (13 days left) | ₹ 0 | [Open](https://buildyourownwebsite.devpost.com/) |
+| **HackWithAditya** | — | Online | 2026-11-25 (13 days left) | ₹ 500,000 | [Open](https://hackwithaditya.devpost.com/) |
+| **Hackathon Agéntico SoftwareChido 2026B** | — | Online | 2026-11-25 (13 days left) | $ 0 | [Open](https://hackathon-agentico-2026b.devpost.com/) |
+| **Code For DFW** | — | Online | 2026-11-25 (13 days left) | $ 0 | [Open](https://code-for-dfw.devpost.com/) |
+| **BuildyourOwnWebsite** | — | Online | 2026-11-25 (13 days left) | ₹ 0 | [Open](https://buildyourownwebsite.devpost.com/) |
 | **Agentware \| 72-Hour Hackathon** | Hackathon Raptors | Online | 2026-11-27 (15 days left) | See listing | [Open](https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324) |
 | **The DevForge - Hackathon** | Scaler School of Technology, Bengaluru, Karnataka | Offline | 2026-11-27 (15 days left) | See listing | [Open](https://unstop.com/hackathons/the-devforge-hackathon-scaler-school-of-technology-bengaluru-karnataka-1765465) |
-| **Build Your First AI App** | Online | Online | 2026-11-27 (15 days left) | $ 0 | [Open](https://build-your-first-ai-app.devpost.com/) |
+| **Build Your First AI App** | — | Online | 2026-11-27 (15 days left) | $ 0 | [Open](https://build-your-first-ai-app.devpost.com/) |
 | **DecodeX '26 - Enter the Mission. Decode the Unknown** | BMS Institute of Technology and Management (BMSITM), Bangalore | Hybrid | 2026-11-28 (16 days left) | See listing | [Open](https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529) |
 | **Exora 2.0 : Unveil The Build** | ABES Engineering College | Hybrid | 2026-11-28 (16 days left) | See listing | [Open](https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143) |
 | **Algonex 1.0** | Maya devi university | Offline | 2026-11-28 (16 days left) | See listing | [Open](https://unstop.com/hackathons/algonex-10-maya-devi-university-1781078) |
 | **Agents that act. Systems that answer. \| Free Virtual Agentic-AI Hackathon** | Studentchakra | Online | 2026-11-28 (16 days left) | See listing | [Open](https://unstop.com/hackathons/agents-that-act-systems-that-answer-studentchakra-1777504) |
 | **AlgoSSTrike** | Scaler School of Technology, Bengaluru, Karnataka | Hybrid | 2026-11-28 (16 days left) | See listing | [Open](https://unstop.com/hackathons/algosstrike-scaler-school-of-technology-bengaluru-karnataka-1765493) |
 | **Avishkaar Season 4 (Virtual) Hackathon: A National-Level Innovation Challenge** | Aditya Institute of technology and management,tekkali | Online | 2026-11-28 (16 days left) | See listing | [Open](https://unstop.com/hackathons/avishkaar-season-4-virtual-hackathon-a-national-level-innovation-challenge-aditya-institute-of-technology-and-1756262) |
-| **Global AI Builder’s Challenge** | Online | Online | 2026-11-28 (16 days left) | $ 0 | [Open](https://global-ai-builders-challenge.devpost.com/) |
+| **Global AI Builder’s Challenge** | — | Online | 2026-11-28 (16 days left) | $ 0 | [Open](https://global-ai-builders-challenge.devpost.com/) |
 | **Blackout 2026** | Coimbatore , TamilNadu | In person | 2026-11-28 (16 days left) | $ 5,000 | [Open](https://blackout-2026.devpost.com/) |
 | **Project-ZH Hack Day** | Innoland Incubation Center, Baku | In person | 2026-11-28 (16 days left) | $ 0 | [Open](https://project-zh.devpost.com/) |
 | **Build Day 2** | Durham University, Entrepreneurs Durham | In person | 2026-11-28 (16 days left) | $ 0 | [Open](https://build-day.devpost.com/) |
@@ -4335,20 +4335,20 @@
 | **Anna AI OS Founding Builder Challenge 2026** | Talentsec Technology (Hong Kong) Limited | Online | 2026-11-30 (18 days left) | See listing | [Open](https://unstop.com/hackathons/anna-ai-os-founding-builder-challenge-2026-talentsec-technology-hong-kong-limited-1762519) |
 | **Hacknexus** | Mastermind Research Technologies | Online | 2026-11-30 (18 days left) | See listing | [Open](https://unstop.com/hackathons/hacknexus-mastermind-research-technologies-1746846) |
 | **Slay CTF** | Jalpaiguri Government Engineering College (JGEC), West Bengal | Hybrid | 2026-11-30 (18 days left) | See listing | [Open](https://unstop.com/hackathons/slay-ctf-jalpaiguri-government-engineering-college-jgec-west-bengal-1743206) |
-| **#BuildHybridAI 2026** | Online | Online | 2026-11-30 (18 days left) | $ 30,000 | [Open](https://firebasehybridaihackathon.devpost.com/) |
-| **CSC Winter Sparkathon** | Online | Online | 2026-11-30 (18 days left) | $ 300 | [Open](https://csc-winter-sparkathon.devpost.com/) |
-| **IdeaLab Hacks** | Online | Online | 2026-11-30 (18 days left) | $ 0 | [Open](https://idealab-hacks.devpost.com/) |
-| **305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app** | Online | Online | 2026-11-30 (18 days left) | $ 0 | [Open](https://305veteransnov2026.devpost.com/) |
+| **#BuildHybridAI 2026** | — | Online | 2026-11-30 (18 days left) | $ 30,000 | [Open](https://firebasehybridaihackathon.devpost.com/) |
+| **CSC Winter Sparkathon** | — | Online | 2026-11-30 (18 days left) | $ 300 | [Open](https://csc-winter-sparkathon.devpost.com/) |
+| **IdeaLab Hacks** | — | Online | 2026-11-30 (18 days left) | $ 0 | [Open](https://idealab-hacks.devpost.com/) |
+| **305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app** | — | Online | 2026-11-30 (18 days left) | $ 0 | [Open](https://305veteransnov2026.devpost.com/) |
 | **VYOM - National Level Hackathon Cum Project Competition** | Government College of Engineering (GECA), Aurangabad | Hybrid | 2026-12-01 (19 days left) | See listing | [Open](https://unstop.com/hackathons/vyom-national-level-hackathon-cum-project-competition-government-college-of-engineering-geca-aurangabad-1793796) |
 | **National Online Hackathon 2026** | EDXcellence LLP | Online | 2026-12-01 (19 days left) | See listing | [Open](https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680) |
 | **Hack Era 2.0** | Erazone | Online | 2026-12-01 (19 days left) | See listing | [Open](https://unstop.com/hackathons/hack-era-20-erazone-1771785) |
-| **Code for Change** | Online | Online | 2026-12-01 (19 days left) | $ 200 | [Open](https://code-for-change-global.devpost.com/) |
+| **Code for Change** | — | Online | 2026-12-01 (19 days left) | $ 200 | [Open](https://code-for-change-global.devpost.com/) |
 | **Westside High School Build Challenge** | Westside High School | In person | 2026-12-01 (19 days left) | $ 0 | [Open](https://whs-build.devpost.com/) |
-| **ML Empowerment Build Challenge 4.0** | Online | Online | 2026-12-02 (20 days left) | $ 0 | [Open](https://ml-build-challenge-4.devpost.com/) |
+| **ML Empowerment Build Challenge 4.0** | — | Online | 2026-12-02 (20 days left) | $ 0 | [Open](https://ml-build-challenge-4.devpost.com/) |
 | **Zenith'26** | MLR Institute Of Technology (MLRIT), Hyderabad | Offline | 2026-12-04 (22 days left) | See listing | [Open](https://unstop.com/hackathons/zenith26-mlr-institute-of-technology-mlrit-hyderabad-1790028) |
-| **Kiroween 2026** | Online | Online | 2026-12-04 (22 days left) | $ 100,000 | [Open](https://kiroween.devpost.com/) |
-| **LaunchPad Hacks (Judges + Sponsors Needed)** | Online | Online | 2026-12-04 (22 days left) | $ 300 | [Open](https://launchpad-hacks.devpost.com/) |
-| **AI for Medicine: A Global Student Hackathon on the Future of Care** | Online | Online | 2026-12-04 (22 days left) | $ 0 | [Open](https://ai-for-medicine.devpost.com/) |
+| **Kiroween 2026** | — | Online | 2026-12-04 (22 days left) | $ 100,000 | [Open](https://kiroween.devpost.com/) |
+| **LaunchPad Hacks (Judges + Sponsors Needed)** | — | Online | 2026-12-04 (22 days left) | $ 300 | [Open](https://launchpad-hacks.devpost.com/) |
+| **AI for Medicine: A Global Student Hackathon on the Future of Care** | — | Online | 2026-12-04 (22 days left) | $ 0 | [Open](https://ai-for-medicine.devpost.com/) |
 | **Android Ignition** | Ganeshi Lal Bajaj Institute Of Technology And Management (GLBITM), Greater Noida | Online | 2026-12-06 (24 days left) | See listing | [Open](https://unstop.com/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946) |
 | **Adaption Dataset Challenge** | Hackyard Technologies Pvt limited | Online | 2026-12-06 (24 days left) | See listing | [Open](https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281) |
 | **INNOVATE INDIA - Hackathon 2026** | DevHarbour | Online | 2026-12-06 (24 days left) | See listing | [Open](https://unstop.com/hackathons/innovate-hackathon-2026-devharbour-1792025) |
@@ -4362,38 +4362,38 @@
 | **Hack AI x Stan** | Stan HQ - Toronto | In person | 2026-12-06 (24 days left) | $CAD 24,957 | [Open](https://hackai-toronto.devpost.com/) |
 | **Revolution** | Museo Del Acero Horno 3 | In person | 2026-12-06 (24 days left) | MEX$ 0 | [Open](https://revolution-mty2026.devpost.com/) |
 | **SupeRR Selector Season 2: Help Shape Rajasthan Royals' IPL 2027 Auction Strategy** | Rajasthan Royals | Hybrid | 2026-12-07 (25 days left) | See listing | [Open](https://unstop.com/hackathons/crp-superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758) |
-| **Deck the Pixels** | Online | Online | 2026-12-07 (25 days left) | $ 25,000 | [Open](https://deckthepixels.devpost.com/) |
-| **Learn AR with SPECS** | Online | Online | 2026-12-07 (25 days left) | $ 2,500 | [Open](https://learn-specs.devpost.com/) |
-| **SLAY HACKS** | Online | Online | 2026-12-07 (25 days left) | $ 4,500 | [Open](https://slayy-hacks.devpost.com/) |
+| **Deck the Pixels** | — | Online | 2026-12-07 (25 days left) | $ 25,000 | [Open](https://deckthepixels.devpost.com/) |
+| **Learn AR with SPECS** | — | Online | 2026-12-07 (25 days left) | $ 2,500 | [Open](https://learn-specs.devpost.com/) |
+| **SLAY HACKS** | — | Online | 2026-12-07 (25 days left) | $ 4,500 | [Open](https://slayy-hacks.devpost.com/) |
 | **2026-2027 Fall ESE Senior Design** | Amy Gutman Hall | In person | 2026-12-07 (25 days left) | $ 0 | [Open](https://ese4500f26.devpost.com/) |
-| **Reddit’s Game of the Day Hackathon** | Online | Online | 2026-12-08 (26 days left) | $ 35,000 | [Open](https://redditgameofday2026.devpost.com/) |
+| **Reddit’s Game of the Day Hackathon** | — | Online | 2026-12-08 (26 days left) | $ 35,000 | [Open](https://redditgameofday2026.devpost.com/) |
 | **AGENTIC X 2.0 – AI & Robotics Hackathon** | Woxsen University, Hyderabad | Hybrid | 2026-12-09 (27 days left) | See listing | [Open](https://unstop.com/hackathons/agentic-x-20-ai-robotics-hackathon-woxsen-university-hyderabad-1779479) |
 | **PromptWars Hyderabad 2026 - AI & Prompt Engineering Competition** | St. Peter's Engineering College (SPEC), Hyderabad, Telangana | Offline | 2026-12-10 (28 days left) | See listing | [Open](https://unstop.com/hackathons/promptwars-hyderabad-2026-ai-prompt-engineering-competition-st-peters-engineering-college-spec-hyderabad-tela-1765597) |
-| **AI OpenBuild** | Online | Online | 2026-12-10 (28 days left) | $ 150 | [Open](https://ai-openbuild.devpost.com/) |
-| **Peninsula Innovation Hackathon** | Online | Online | 2026-12-10 (28 days left) | $ 0 | [Open](https://peninsula-innovation-hackathon.devpost.com/) |
-| **AWS MSP AI Hackathon** | Online | Online | 2026-12-11 (29 days left) | $ 64,000 | [Open](https://aws-agentic-msp.devpost.com/) |
-| **Relate by Neo4j Hackathon** | Online | Online | 2026-12-11 (29 days left) | $ 0 | [Open](https://relate.devpost.com/) |
-| **FRONTIER//26** | Online | Online | 2026-12-11 (29 days left) | $ 0 | [Open](https://lovhack.devpost.com/) |
+| **AI OpenBuild** | — | Online | 2026-12-10 (28 days left) | $ 150 | [Open](https://ai-openbuild.devpost.com/) |
+| **Peninsula Innovation Hackathon** | — | Online | 2026-12-10 (28 days left) | $ 0 | [Open](https://peninsula-innovation-hackathon.devpost.com/) |
+| **AWS MSP AI Hackathon** | — | Online | 2026-12-11 (29 days left) | $ 64,000 | [Open](https://aws-agentic-msp.devpost.com/) |
+| **Relate by Neo4j Hackathon** | — | Online | 2026-12-11 (29 days left) | $ 0 | [Open](https://relate.devpost.com/) |
+| **FRONTIER//26** | — | Online | 2026-12-11 (29 days left) | $ 0 | [Open](https://lovhack.devpost.com/) |
 | **AI BuildFest 2026** | Frontend Arena | Online | 2026-12-12 (30 days left) | See listing | [Open](https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417) |
-| **BUILD 4 ALL** | Online | Online | 2026-12-12 (30 days left) | $ 0 | [Open](https://build4all.devpost.com/) |
+| **BUILD 4 ALL** | — | Online | 2026-12-12 (30 days left) | $ 0 | [Open](https://build4all.devpost.com/) |
 | **StarForge : 24-Hour National Level Hackathon** | BMS Institute of Technology and Management (BMSITM), Bangalore | Offline | 2026-12-13 (31 days left) | See listing | [Open](https://unstop.com/hackathons/starforge-24-hour-hackathon-bms-institute-of-technology-and-management-bmsitm-bangalore-1773675) |
-| **InnovateHER Hackathon: Girls Who Code** | Online | Online | 2026-12-13 (31 days left) | $ 0 | [Open](https://hackathon-girls-who-code.devpost.com/) |
+| **InnovateHER Hackathon: Girls Who Code** | — | Online | 2026-12-13 (31 days left) | $ 0 | [Open](https://hackathon-girls-who-code.devpost.com/) |
 | **hack::peel 2026** | The Woodlands Secondary School | In person | 2026-12-13 (31 days left) | $CAD 100 | [Open](https://hack-peel.devpost.com/) |
 | **Defy'27** | Vellore Institute of Technology (VIT), Chennai | Offline | 2026-12-14 (32 days left) | See listing | [Open](https://unstop.com/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122) |
 | **CodeCrafters India 2026 - National Hackathon** | HackWithPune | Online | 2026-12-14 (32 days left) | See listing | [Open](https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826) |
 | **CodeAstra India 2026 – National Hackathon** | WeCodeCoders | Online | 2026-12-14 (32 days left) | See listing | [Open](https://unstop.com/hackathons/codeastra-india-2026-national-hackathon-wecodecoders-1791313) |
-| **Ryze Hacks 2026** | Online | Online | 2026-12-14 (32 days left) | $ 0 | [Open](https://ryzehacks.devpost.com/) |
+| **Ryze Hacks 2026** | — | Online | 2026-12-14 (32 days left) | $ 0 | [Open](https://ryzehacks.devpost.com/) |
 | **Hacksmart 2.0** | Geek Room | Hybrid | 2026-12-15 (33 days left) | See listing | [Open](https://unstop.com/hackathons/hacksmart-20-geek-room-1799091) |
 | **Rack It Up 2026: 48-Hour Online Hackathon by Rack'Em** | Karma Enterprises | Online | 2026-12-15 (33 days left) | See listing | [Open](https://unstop.com/hackathons/rack-it-up-2026-48-hour-online-hackathon-by-rackem-karma-enterprises-1777639) |
-| **QNX Global Hackathon** | Online | Online | 2026-12-15 (33 days left) | $ 50,000 | [Open](https://qnx.devpost.com/) |
-| **Silicon Valley Buildathon** | Online | Online | 2026-12-15 (33 days left) | $ 500 | [Open](https://silicon-valley-buildathon.devpost.com/) |
+| **QNX Global Hackathon** | — | Online | 2026-12-15 (33 days left) | $ 50,000 | [Open](https://qnx.devpost.com/) |
+| **Silicon Valley Buildathon** | — | Online | 2026-12-15 (33 days left) | $ 500 | [Open](https://silicon-valley-buildathon.devpost.com/) |
 | **The Forge** | Hoollow | Offline | 2026-12-16 (34 days left) | See listing | [Open](https://unstop.com/hackathons/the-forge-hoollow-1787722) |
 | **CodeElitePune - Hack With Pune** | HackWithPune | Online | 2026-12-17 (35 days left) | See listing | [Open](https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522) |
 | **Cognition- AI Hackathon** | Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi | Offline | 2026-12-17 (35 days left) | See listing | [Open](https://unstop.com/hackathons/cognition-ai-hackathon-techtonics-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1790269) |
 | **Ooty Hacks** | Hackhere | Hybrid | 2026-12-17 (35 days left) | See listing | [Open](https://unstop.com/hackathons/ooty-hacks-hackhere-1768100) |
-| **Arioron Think 2026** | Online | Online | 2026-12-17 (35 days left) | $ 0 | [Open](https://arioron-think-2026.devpost.com/) |
+| **Arioron Think 2026** | — | Online | 2026-12-17 (35 days left) | $ 0 | [Open](https://arioron-think-2026.devpost.com/) |
 | **K Hacks 4.0** | Anna University (AU), Chennai | Online | 2026-12-18 (36 days left) | See listing | [Open](https://unstop.com/hackathons/k-hacks-40-anna-university-au-chennai-1772496) |
-| **AI Agents for Founders Challenge — HETIC 2026** | Online | Online | 2026-12-18 (36 days left) | € 1,000 | [Open](https://ai-agents-founders-hetic-26.devpost.com/) |
+| **AI Agents for Founders Challenge — HETIC 2026** | — | Online | 2026-12-18 (36 days left) | € 1,000 | [Open](https://ai-agents-founders-hetic-26.devpost.com/) |
 | **HackKumbh 2026 : Tech For Humanity** | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | Offline | 2026-12-19 (37 days left) | See listing | [Open](https://unstop.com/hackathons/hackkumbh-2026-tech-for-humanity-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1800629) |
 | **IDEATHON- FutureX: Innovating for Global Challenges** | Skill2Career | Online | 2026-12-19 (37 days left) | See listing | [Open](https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074) |
 | **AI Vibeathon 1.0** | ECHO ENGINEERS | Hybrid | 2026-12-19 (37 days left) | See listing | [Open](https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092) |
@@ -4402,13 +4402,13 @@
 | **Hackday 2.0** | Decodep Community | Online | 2026-12-20 (38 days left) | See listing | [Open](https://unstop.com/hackathons/hackday-20-decodep-community-1773120) |
 | **National Research & Cloud Innovation Challenge Season 4 by 3SVK — Powered by Adaption Labs \| 4.8K+ Registrations** | Jawaharlal Nehru Technological University (JNTUH), Hyderabad | Online | 2026-12-20 (38 days left) | See listing | [Open](https://unstop.com/hackathons/cloud-innovation-challenge-jawaharlal-nehru-technological-university-jntuh-hyderabad-1652247) |
 | **Vibe Code Animated Maps** | South Plainfield Library | In person | 2026-12-20 (38 days left) | $ 0 | [Open](https://vibecode-animated-maps.devpost.com/) |
-| **Arbiter Hacks V1** | Online | Online | 2026-12-21 (39 days left) | $ 7,800 | [Open](https://arbiter-hacks-v1.devpost.com/) |
+| **Arbiter Hacks V1** | — | Online | 2026-12-21 (39 days left) | $ 7,800 | [Open](https://arbiter-hacks-v1.devpost.com/) |
 | **Seed Hackathon 2026** | SEED Global Education Services Private Limited | Online | 2026-12-22 (40 days left) | See listing | [Open](https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287) |
-| **Codegeist 2026: Build with context. Ship with confidence.** | Online | Online | 2026-12-22 (40 days left) | $ 120,000 | [Open](https://codegeist2026.devpost.com/) |
-| **Inceptrix 3.0** | Online | Online | 2026-12-24 (42 days left) | ₹ 250,000 | [Open](https://inceptrix-hackathon.devpost.com/) |
-| **MCA 2026 projects** | Online | Online | 2026-12-25 (43 days left) | $ 0 | [Open](https://mca-2026-projects.devpost.com/) |
+| **Codegeist 2026: Build with context. Ship with confidence.** | — | Online | 2026-12-22 (40 days left) | $ 120,000 | [Open](https://codegeist2026.devpost.com/) |
+| **Inceptrix 3.0** | — | Online | 2026-12-24 (42 days left) | ₹ 250,000 | [Open](https://inceptrix-hackathon.devpost.com/) |
+| **MCA 2026 projects** | — | Online | 2026-12-25 (43 days left) | $ 0 | [Open](https://mca-2026-projects.devpost.com/) |
 | **NavUtkarsh x Leo Hackathon 2026 \| Innovate, Build & Solve Real-World Problems** | navutkarsh | Hybrid | 2026-12-26 (44 days left) | See listing | [Open](https://unstop.com/hackathons/navutkarsh-x-leo-hackathon-2026-innovate-build-solve-real-world-problems-navutkarsh-1771952) |
-| **GenHacks** | Online | Online | 2026-12-26 (44 days left) | $CAD 1,050 | [Open](https://genhacks-open.devpost.com/) |
+| **GenHacks** | — | Online | 2026-12-26 (44 days left) | $CAD 1,050 | [Open](https://genhacks-open.devpost.com/) |
 | **The Black-Box Protocol: Stage 03 - System Convergence** | TECHhelp4U | Offline | 2026-12-27 (45 days left) | See listing | [Open](https://unstop.com/hackathons/the-black-box-protocol-stage-03-system-convergence-techhelp4u-1745778) |
 | **HACKRUSH 2026** | Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi | Online | 2026-12-30 (48 days left) | See listing | [Open](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179) |
 | **Techkriti Grand Prix \| TECHKRITI \| IIT KANPUR** | Techkriti | Offline | 2026-12-31 (49 days left) | See listing | [Open](https://unstop.com/hackathons/techkriti-grand-prix-techkriti27-techkriti-1764465) |
@@ -4429,10 +4429,10 @@
 | **Pitch Premier \| Techkriti \| IIT KANPUR** | Techkriti | Offline | 2026-12-31 (49 days left) | See listing | [Open](https://unstop.com/hackathons/pitch-premier-techkriti27-techkriti-1764454) |
 | **Trade Quest \| TECHKRITI \| IIT KANPUR** | Techkriti | Offline | 2026-12-31 (49 days left) | See listing | [Open](https://unstop.com/hackathons/trade-quest-techkriti27-techkriti-1764452) |
 | **NewYear X Thon 2K27** | Brainwaves | Online | 2026-12-31 (49 days left) | See listing | [Open](https://unstop.com/hackathons/newyear-x-thon-2k27-brainwaves-1763561) |
-| **evensonarisnord** | Online | Online | 2026-12-31 (49 days left) | $ 150 | [Open](https://evensonarisnord.devpost.com/) |
-| **305 CodeFest Edition December 2026 — 305Hackathons.vercel.app** | Online | Online | 2026-12-31 (49 days left) | $ 0 | [Open](https://305codefestdec2026.devpost.com/) |
+| **evensonarisnord** | — | Online | 2026-12-31 (49 days left) | $ 150 | [Open](https://evensonarisnord.devpost.com/) |
+| **305 CodeFest Edition December 2026 — 305Hackathons.vercel.app** | — | Online | 2026-12-31 (49 days left) | $ 0 | [Open](https://305codefestdec2026.devpost.com/) |
 | **Reverse Coding X** | Indian Institute of Technology (IIT), Madras | Hybrid | 2027-01-02 (51 days left) | See listing | [Open](https://unstop.com/hackathons/reverse-coding-x-iit-madras-1782949) |
-| **InnovArt 2027: Art and Technology Hack Day** | Online | Online | 2027-01-02 (51 days left) | $ 0 | [Open](https://innovart2027.devpost.com/) |
+| **InnovArt 2027: Art and Technology Hack Day** | — | Online | 2027-01-02 (51 days left) | $ 0 | [Open](https://innovart2027.devpost.com/) |
 | **Code Conquest** | Indian Institute of Technology (IIT), Madras | Hybrid | 2027-01-04 (53 days left) | See listing | [Open](https://unstop.com/hackathons/rovermaggedon-iit-madras-1783515) |
 | **Pixels To Prognosis** | Indian Institute of Technology (IIT), Madras | Online | 2027-01-04 (53 days left) | See listing | [Open](https://unstop.com/hackathons/pixels-to-prognosis-iit-madras-1781358) |
 | **The Code Vibes Hackathon 2.0** | THE CODE VIBES | Online | 2027-01-06 (55 days left) | See listing | [Open](https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889) |
@@ -4443,11 +4443,11 @@
 | **Shaastra Programming Contest 2027** | Indian Institute of Technology (IIT), Madras | Online | 2027-01-09 (58 days left) | See listing | [Open](https://unstop.com/hackathons/shaastra-programming-contest-2027-iit-madras-1782685) |
 | **RedStone Rush 12 Hour Open Innovation Hackathon** | Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur | Hybrid | 2027-01-09 (58 days left) | See listing | [Open](https://unstop.com/hackathons/redstone-rush-12-hour-open-innovation-hackathon-continuum-mmmut-gorakhpur-1771949) |
 | **DeltaHacks** | Hamilton, Ontario | Physical | 2027-01-10 (59 days left) | See listing | [Open](https://www.deltahacks.com/) |
-| **United Hacks V8** | Online | Online | 2027-01-10 (59 days left) | $ 18,700 | [Open](https://unitedhacksv8.devpost.com/) |
-| **checkpoint 1 — games for good** | Online | Online | 2027-01-10 (59 days left) | $ 11,960 | [Open](https://checkpoint-1.devpost.com/) |
-| **Open Agentic Web Challenge** | Online | Online | 2027-01-11 (60 days left) | $ 10,000 | [Open](https://cognizant-agenticweb.devpost.com/) |
-| **Syntax Summit** | Online | Online | 2027-01-14 (63 days left) | $ 0 | [Open](https://syntax-summit.devpost.com/) |
-| **Code for Humanity** | Online | Online | 2027-01-15 (64 days left) | $ 0 | [Open](https://code-for-humanity.devpost.com/) |
+| **United Hacks V8** | — | Online | 2027-01-10 (59 days left) | $ 18,700 | [Open](https://unitedhacksv8.devpost.com/) |
+| **checkpoint 1 — games for good** | — | Online | 2027-01-10 (59 days left) | $ 11,960 | [Open](https://checkpoint-1.devpost.com/) |
+| **Open Agentic Web Challenge** | — | Online | 2027-01-11 (60 days left) | $ 10,000 | [Open](https://cognizant-agenticweb.devpost.com/) |
+| **Syntax Summit** | — | Online | 2027-01-14 (63 days left) | $ 0 | [Open](https://syntax-summit.devpost.com/) |
+| **Code for Humanity** | — | Online | 2027-01-15 (64 days left) | $ 0 | [Open](https://code-for-humanity.devpost.com/) |
 | **CodeBuild 2.0** | Cobuild | Offline | 2027-01-16 (65 days left) | See listing | [Open](https://unstop.com/hackathons/codebuild-20-cobuild-1772164) |
 | **Goa Buildathon 27** | Goa Buildathon | Offline | 2027-01-17 (66 days left) | See listing | [Open](https://unstop.com/hackathons/goa-buildathon-27-goa-buildathon-1789849) |
 | **Singularity 2.0** | KC College of Engineering and Management Studies and Research | Offline | 2027-01-17 (66 days left) | See listing | [Open](https://unstop.com/hackathons/singularity-20-kc-college-of-engineering-and-management-studies-and-research-1755564) |
@@ -4456,8 +4456,8 @@
 | **nwHacks** | Vancouver, British Columbia | Physical | 2027-01-17 (66 days left) | See listing | [Open](https://nwhacks.io/) |
 | **HackBI X** | Alexandria, Virginia | Physical | 2027-01-17 (66 days left) | See listing | [Open](https://hackbi.org/) |
 | **HackStorm 3.0: Sense, Think and Act** | San Francisco, California, USA | In person | 2027-01-17 (66 days left) | $ 5,200 | [Open](https://hackstorm3.devpost.com/) |
-| **Syntax Hacks 2026** | Online | Online | 2027-01-17 (66 days left) | $ 0 | [Open](https://syntax-hacks-2026.devpost.com/) |
-| **Cosmo Hacks 2026** | Online | Online | 2027-01-18 (67 days left) | $ 146,770 | [Open](https://cosmohacks.devpost.com/) |
+| **Syntax Hacks 2026** | — | Online | 2027-01-17 (66 days left) | $ 0 | [Open](https://syntax-hacks-2026.devpost.com/) |
+| **Cosmo Hacks 2026** | — | Online | 2027-01-18 (67 days left) | $ 146,770 | [Open](https://cosmohacks.devpost.com/) |
 | **Central India Hackathon 4.0** | Suryodaya College of Engineering & Technology, Nagpur | Offline | 2027-01-23 (72 days left) | See listing | [Open](https://unstop.com/hackathons/central-india-hackathon-40-suryodaya-college-of-engineering-technology-nagpur-1788753) |
 | **TCU Hack Day** | Technical Community Universe | Hybrid | 2027-01-23 (72 days left) | See listing | [Open](https://unstop.com/hackathons/tcu-hack-day-technical-community-universe-1763620) |
 | **Quasar 5.0: 36-Hour International Hackathon** | Vasantdada Patil Pratishthan's College of Engineering and Visual Arts, Mumbai, Maharashtra | Offline | 2027-01-24 (73 days left) | See listing | [Open](https://unstop.com/hackathons/quasar-50-36-hour-international-hackathon-vasantdada-patil-pratishthans-college-of-engineering-and-visual-art-1772406) |
@@ -4467,11 +4467,11 @@
 | **Hacksprint 3.0** | Karpagam Academy of Higher Education | Online | 2027-01-30 (79 days left) | See listing | [Open](https://unstop.com/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597) |
 | **The Arcticathon** | Bidaya | Online | 2027-01-31 (80 days left) | See listing | [Open](https://unstop.com/hackathons/the-arcticathon-bidaya-1759619) |
 | **H.A.R.D. Hack 2027** | University of California - Jacobs Hall | In person | 2027-01-31 (80 days left) | $ 300 | [Open](https://h-a-r-d-hack-2027.devpost.com/) |
-| **HACKRISE'26** | Online | Online | 2027-01-31 (80 days left) | ₹ 1,000 | [Open](https://hackrise-26.devpost.com/) |
+| **HACKRISE'26** | — | Online | 2027-01-31 (80 days left) | ₹ 1,000 | [Open](https://hackrise-26.devpost.com/) |
 | **NSH @RPI 2027** | RPI DCC | In person | 2027-01-31 (80 days left) | $ 0 | [Open](https://nsh-rpi-2027.devpost.com/) |
-| **HackOut! 2027** | Online | Online | 2027-02-01 (81 days left) | $ 3,000 | [Open](https://hackout-branchout.devpost.com/) |
+| **HackOut! 2027** | — | Online | 2027-02-01 (81 days left) | $ 3,000 | [Open](https://hackout-branchout.devpost.com/) |
 | **AETHOS - Day Zero** | Together We Solve | Online | 2027-02-04 (84 days left) | See listing | [Open](https://unstop.com/hackathons/aethos-day-zero-together-we-solve-1730263) |
-| **HackTitan** | Online | Online | 2027-02-04 (84 days left) | $ 10,000 | [Open](https://hacktitan.devpost.com/) |
+| **HackTitan** | — | Online | 2027-02-04 (84 days left) | $ 10,000 | [Open](https://hacktitan.devpost.com/) |
 | **Rabinjathon: Prime 1** | Rabinja Squad | Online | 2027-02-05 (85 days left) | See listing | [Open](https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846) |
 | **Craft N Code Odisha** | International Institute of Information Technology (IIIT), Bhubaneswar | Offline | 2027-02-06 (86 days left) | See listing | [Open](https://unstop.com/hackathons/craft-n-code-odisha-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit-1773246) |
 | **Craft N Code Telangana** | International Institute of Information Technology (IIIT), Bhubaneswar | Online | 2027-02-06 (86 days left) | See listing | [Open](https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232) |
@@ -4486,11 +4486,11 @@
 | **HackVA** | Northern Virginia Community College | In person | 2027-02-07 (87 days left) | $ 0 | [Open](https://hackva27.devpost.com/) |
 | **DeveloperWeek 2027 Hackathon** | Santa Clara Convention Center + Online | In person | 2027-02-11 (91 days left) | $ 6,000 | [Open](https://developerweek-2027-hackathon.devpost.com/) |
 | **NTU Beyond Binary Techathon 2027** | Singapore | In person | 2027-02-13 (93 days left) | $ 10,000 | [Open](https://ntu-beyond-binary-2027.devpost.com/) |
-| **AI for Human Impact: A Global BASIS Hackathon** | Online | Online | 2027-02-13 (93 days left) | $ 10,200 | [Open](https://basisglobalhackathon.devpost.com/) |
+| **AI for Human Impact: A Global BASIS Hackathon** | — | Online | 2027-02-13 (93 days left) | $ 10,200 | [Open](https://basisglobalhackathon.devpost.com/) |
 | **INDIA GOT SPOT 1.0** | Swastik Community | Offline | 2027-02-15 (95 days left) | See listing | [Open](https://unstop.com/hackathons/india-got-spot-10-swastik-community-1771992) |
 | **Inceptrix 3.0** | Faculty of Engineering and Technology, Jain Deemed to be University | Hybrid | 2027-02-20 (100 days left) | See listing | [Open](https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479) |
 | **Business Battlefield 2027** | Virginia De Land Theatre | In person | 2027-02-20 (100 days left) | $ 0 | [Open](https://business-battkefuekd.devpost.com/) |
-| **MEGA Hackathon 2027** | Online | Online | 2027-02-21 (101 days left) | $ 0 | [Open](https://megahackathon-27.devpost.com/) |
+| **MEGA Hackathon 2027** | — | Online | 2027-02-21 (101 days left) | $ 0 | [Open](https://megahackathon-27.devpost.com/) |
 | **Ticket to Hack 2027 @ UVA** | Rice Hall | In person | 2027-02-21 (101 days left) | $ 0 | [Open](https://ticket-to-hack.devpost.com/) |
 | **.devHacks 2027** | EITC Building, University of Manitoba | In person | 2027-02-21 (101 days left) | $CAD 0 | [Open](https://devhacks-2027.devpost.com/) |
 | **RebelHacks 2027** | University of Nevada Las Vegas, SEB 1311 | In person | 2027-02-21 (101 days left) | $ 2,500 | [Open](https://rebelhacks-2027.devpost.com/) |
@@ -4499,7 +4499,7 @@
 | **Forgehacks** | Pharmacutical Sciences Building | In person | 2027-02-28 (108 days left) | $ 6,000 | [Open](https://forgehacks-biztech.devpost.com/) |
 | **HackTCNJ 2027** | The College of New Jersey | In person | 2027-02-28 (108 days left) | $ 0 | [Open](https://hacktcnj-2027.devpost.com/) |
 | **CSS Battle** | Army Institute of Technology (AIT), Pune | Online | 2027-03-01 (109 days left) | See listing | [Open](https://unstop.com/hackathons/css-battle-solutions-2k27-army-institute-of-technology-ait-pune-1802090) |
-| **WiCS Hackathon** | Online | Online | 2027-03-02 (110 days left) | $ 0 | [Open](https://wics-hackathon.devpost.com/) |
+| **WiCS Hackathon** | — | Online | 2027-03-02 (110 days left) | $ 0 | [Open](https://wics-hackathon.devpost.com/) |
 | **Solidworks** | Army Institute of technology, Pune | Online | 2027-03-04 (112 days left) | See listing | [Open](https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800) |
 | **Ethon** | Army Institute of technology, Pune | Offline | 2027-03-05 (113 days left) | See listing | [Open](https://unstop.com/hackathons/ethon-solutions-2k27-army-institute-of-technology-pune-1799758) |
 | **Crackhunt** | Army Institute of technology, Pune | Online | 2027-03-05 (113 days left) | See listing | [Open](https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765) |
@@ -4511,25 +4511,25 @@
 | **Project Jupyter** | Army Institute of technology, Pune | Online | 2027-03-10 (118 days left) | See listing | [Open](https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762) |
 | **Tech to Treasure Hackathon** | Tully Community Branch Library | In person | 2027-03-10 (118 days left) | $ 450 | [Open](https://techtotreasure.devpost.com/) |
 | **EagleHacks 2027** | Florida Gulf Coast University | In person | 2027-03-14 (122 days left) | $ 250 | [Open](https://eaglehacks2027.devpost.com/) |
-| **Build Beyond Hackathon** | Online | Online | 2027-03-15 (123 days left) | $ 5,000 | [Open](https://build-beyond.devpost.com/) |
+| **Build Beyond Hackathon** | — | Online | 2027-03-15 (123 days left) | $ 5,000 | [Open](https://build-beyond.devpost.com/) |
 | **checkpoint journeys — hanoi** | True North International School | In person | 2027-03-20 (128 days left) | $ 7,916 | [Open](https://checkpoint-journeys-hanoi.devpost.com/) |
 | **Firebird Hacks 2027** | Arcadia High School - Gym | In person | 2027-03-20 (128 days left) | $ 0 | [Open](https://firebird-hacks-32077.devpost.com/) |
 | **WiCS Geaux Hack 2027** | LSU - Patrick F. Taylor Hall | In person | 2027-03-21 (129 days left) | $ 0 | [Open](https://wics-geaux-hack-2027.devpost.com/) |
-| **GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes** | Online | Online | 2027-03-26 (134 days left) | $ 700 | [Open](https://gnec-hackathon-2027-winter.devpost.com/) |
+| **GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes** | — | Online | 2027-03-26 (134 days left) | $ 700 | [Open](https://gnec-hackathon-2027-winter.devpost.com/) |
 | **BISV Hacks 2027** | BASIS Independent Silicon Valley | In person | 2027-03-27 (135 days left) | $ 250 | [Open](https://bisv-hacks-2027.devpost.com/) |
 | **GoatHacks 2027** | WPI - Campus Center | In person | 2027-03-28 (136 days left) | $ 0 | [Open](https://goathacks-2027.devpost.com/) |
-| **KeanUHackThis 2027** | Online | Online | 2027-04-03 (142 days left) | $ 0 | [Open](https://keauhackthis-2027.devpost.com/) |
-| **N/A** | Online | Online | 2027-04-06 (145 days left) | $ 2 | [Open](https://ai-content-engine-hackathon.devpost.com/) |
+| **KeanUHackThis 2027** | — | Online | 2027-04-03 (142 days left) | $ 0 | [Open](https://keauhackthis-2027.devpost.com/) |
+| **N/A** | — | Online | 2027-04-06 (145 days left) | $ 2 | [Open](https://ai-content-engine-hackathon.devpost.com/) |
 | **BearHacks 2027** | Sheridan College Hazel McCallion Campus | In person | 2027-04-25 (164 days left) | $CAD 10,000 | [Open](https://bearhacks2027.devpost.com/) |
 | **Desert Dev Lab 2027** | Albuquerque, NM, USA | In person | 2027-04-25 (164 days left) | $ 1,000 | [Open](https://desert-dev-lab-2027.devpost.com/) |
 | **SVC Hackathon 2027** | Gary Knutzen Cardinal Center | In person | 2027-05-08 (177 days left) | $ 0 | [Open](https://svchackathon2027.devpost.com/) |
 | **DeveloperWeek New York 2027 Hackathon** | Meadowlands Exposition Center + Online | In person | 2027-06-17 (217 days left) | $ 12,500 | [Open](https://developerweek-new-york-2027.devpost.com/) |
-| **PhysTech 2027: Physical Activity and Technology Hack Day** | Online | Online | 2027-06-26 (226 days left) | $ 0 | [Open](https://phystech2027.devpost.com/) |
+| **PhysTech 2027: Physical Activity and Technology Hack Day** | — | Online | 2027-06-26 (226 days left) | $ 0 | [Open](https://phystech2027.devpost.com/) |
 | **Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship** | Galuxium | Online | 2027-07-31 (261 days left) | See listing | [Open](https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395) |
 | **DevNetwork [API + Cloud + AI] Hackathon 2027** | Santa Clara Convention Center and Online | In person | 2027-09-10 (302 days left) | $ 12,500 | [Open](https://devnetwork-api-hackathon-2027.devpost.com/) |
 | **SC Quantathon v4** | Watt Family Innovation Center | In person | 2027-10-24 (346 days left) | $ 250 | [Open](https://sc-quantathon-v4.devpost.com/) |
 | **hacks test** | Vancouver, Canada | In person | 2027-12-10 (393 days left) | $ 1 | [Open](https://youtube-automation-hackathon.devpost.com/) |
-| **Brewing Codes 4.0** | Online | Online | 2028-03-27 (501 days left) | ₹ 100,000 | [Open](https://brewing-codes-4-0.devpost.com/) |
+| **Brewing Codes 4.0** | — | Online | 2028-03-27 (501 days left) | ₹ 100,000 | [Open](https://brewing-codes-4-0.devpost.com/) |
 
 </details>
 
