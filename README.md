@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 12 Nov 2026, 2:39 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 12 Nov 2026, 4:35 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-12%20Nov%202026%202%3A39%20PM%20IST)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-93%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-12%20Nov%202026%204%3A35%20PM%20IST)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-94%2B-green)](.)
 [![Eligibility](https://img.shields.io/badge/Eligible%20Batches%20%2B%20Eligible%20Branches-100%25%20of%20entries-success)]()
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
@@ -32,11 +32,17 @@
 
 ## 🆕 Recent Updates (Last 30 Days)
 
-### 📅 12 Nov 2026 (Thu) — 1 NEW Entry Added 🚨
+### 📅 12 Nov 2026 (Thu) — 3 NEW Entries Added 🚨
 
 | Company | Role | Stipend / CTC | Location |
 |---|---|---|---|
+| **[2028 Batch — Internships & Hackathons](All_2028_Batch_Internships_Hackathons_India_2026-11-12/)** 🆕 | **Focused 2028 brief — 1,648 openings** (1,158 internships + 394 hackathons), every link checked live on 12 Nov 2026 | ₹10K–₹25K/mo internships | Pan-India |
+| **[2028 Batch — Complete Index](All_2028_Batch_Openings_India_BTechCS_2026-10-25/)** 🆕 *(refreshed)* | **2028 master brief refreshed — 2,536 openings** (740 entry-level FTE + 751 corporate internships + 555 aggregator internships + 394 hackathons) | ₹10K–₹25K/mo internships | Pan-India |
 | **[2027 Batch — All Openings Above ₹12 LPA](All_2027_Batch_HighPay_12LPA_India_2026-11-12/)** 🆕 | **High-pay brief — 23 live-verified roles above ₹12 LPA** (16 full-time + 7 internship/PPO) + 75 top-company early-career portals + 16 mass-recruit drives with live status | **₹14–₹50 LPA** | Pan-India |
+
+> 🧩 **The 2028 batch, and why the honest headline is “zero”.** On 25 Oct there was exactly **one** posting that named the **2028 batch** — a St. Xavier's College (Gurugram) intern-analyst posting made on behalf of Bain & Company. **It has since expired.** As of 12 Nov 2026, **zero live postings anywhere name the 2028 batch**, and that is the correct result, not a gap in the research: **the 2028 campus cycle does not open until roughly August 2027**. What a 2028-batch student can actually apply to today is **internships, PPO/PPI tracks, pre-final-year roles and hackathons** — which is exactly what the two 2028 briefs are built around.
+
+> ⚠️ **A link-status lesson worth keeping.** LinkedIn answers an **expired** posting with HTTP 200 and then quietly redirects to a related-search page. A naive status check therefore calls a dead link “live”. **168 of the 619 links** carried over from the 25 Oct brief were in exactly that state and have been removed. Every LinkedIn posting in both 2028 briefs was opened individually on 12 Nov 2026 and counted as open only if the final URL still pointed at that posting.
 
 > 🔥 **TCS iON NQT's November cycle closes on 12 Nov 2026 — that is today.** Test 24 Nov, ₹999 (IT) / ₹599 (non-IT), open to **2022–2028 pass-outs in any stream**. Cheap, and the score is read by other employers too.
 
@@ -176,7 +182,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **93+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **94+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -252,8 +258,9 @@ This repository contains **93+ curated entries** organized into individual folde
 | `All_Active_2027_Batch_Jobs_MasterList_India_2026-10-03/` | Master list of 2027 batch openings |
 | `All_Active_2028_Batch_Jobs_MasterList_India_2026-10-03/` | Master list of 2028 batch openings |
 | `All_2028_Batch_ActiveJobOpenings_India_2026-10-08/` | Updated 2028 batch sweep |
-| `All_2028_Batch_Openings_India_BTechCS_2026-10-25/` 🆕 | **Full 2028-batch brief — 713 openings** (625 LinkedIn jobs + 21 aggregator internships + 67 hackathons), tiered FTE / PPO / PPI / internship / hackathon |
+| `All_2028_Batch_Openings_India_BTechCS_2026-10-25/` 🆕 | **Full 2028-batch brief — 2,536 openings** (refreshed 12 Nov 2026: 1,794 LinkedIn postings re-opened live, 740 entry-level FTE + 751 corporate internships + 555 aggregator internships + 394 hackathons), tiered FTE / PPO / PPI / internship / hackathon |
 | `All_2027_Batch_Openings_India_BTechCS_2026-10-25/` 🆕 | **Full 2027-batch brief — 1,256 openings** (1,156 LinkedIn jobs + 20 aggregator internships + 67 hackathons) + **Section 0: 13 campus mass-recruit drives with live status** |
+| `All_2028_Batch_Internships_Hackathons_India_2026-11-12/` 🆕 | **Focused 2028-batch brief — 1,648 openings** (1,158 internships + 394 hackathons), every link checked live on 12 Nov 2026 — shareable on its own |
 | `All_2027_Batch_HighPay_12LPA_India_2026-11-12/` 🆕 | **2027-batch roles above ₹12 LPA — 23 live-verified roles** + 75 top-company early-career portals + 16 mass-recruit drives status-checked 12 Nov 2026 |
 | `All_HighStipend_Internships_PPO_12LPA_India_2026-10-07/` | Internships with ≥₹12 LPA PPO |
 | `4_Active_Internships_Mixed_Tech_BatchList_India_2026-10-05/` | Ixigo + Rapido + Swish bundle |
@@ -337,14 +344,14 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **93+** |
+| Total curated entries | **94+** |
 | Companies covered | **40+** |
 | Internship roles | **36+** |
 | Full-time roles (FTE) | **14+** |
 | Hackathons / competitions | **146+** |
 | PPI / challenge pathways | **4+** |
-| Master lists / bundles | **9** |
-| **Openings indexed inside master briefs** | **2,069** (713 for the 2028 batch + 1,256 for the 2027 batch + 23 above ₹12 LPA) |
+| Master lists / bundles | **10** |
+| **Openings indexed inside master briefs** | **3,892** (2,536 for the 2028 batch + 1,256 for the 2027 batch + 23 above ₹12 LPA) |
 | **Campus mass-recruit drives tracked live** | **16** (13 in the 2027-batch brief + 16 re-verified in the high-pay brief) |
 | **Roles above ₹12 LPA tracked and link-verified** | **23** |
 | Batch coverage | **2026 / 2027 / 2028 / 2029** |
@@ -414,7 +421,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 12 Nov 2026, 2:39 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 12 Nov 2026, 4:35 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
