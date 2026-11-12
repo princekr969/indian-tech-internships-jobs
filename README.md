@@ -3,10 +3,10 @@
 > **A curated, regularly-updated library of tech internships, full-time SDE roles, hackathons, and competitions for Indian students (2026–2029 batches).**
 > Each entry includes eligibility, batch fit, stipend/CTC, cold-email templates, and a WhatsApp-ready snippet. **Built for college students preparing for placements — shareable via WhatsApp groups, free, no recruiter fees.**
 
-> 🕒 **Last sync:** 25 Oct 2026, 9:47 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
+> 🕒 **Last sync:** 12 Nov 2026, 2:39 PM IST (🇮🇳) · Refresh page for the latest timestamp on each commit.
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-25%20Oct%202026%209%3A47%20PM%20IST-blue)](https://github.com/princekr969/indian-tech-internships-jobs)
-[![Entries](https://img.shields.io/badge/entries-92%2B-green)](.)
+[![Last Updated](https://img.shields.io/badge/last%20updated-12%20Nov%202026%202%3A39%20PM%20IST)](https://github.com/princekr969/indian-tech-internships-jobs)
+[![Entries](https://img.shields.io/badge/entries-93%2B-green)](.)
 [![Eligibility](https://img.shields.io/badge/Eligible%20Batches%20%2B%20Eligible%20Branches-100%25%20of%20entries-success)]()
 [![Batches](https://img.shields.io/badge/batches-2026%20%E2%86%92%2029-orange)](.)
 [![Cost](https://img.shields.io/badge/cost-FREE-brightgreen)](.)
@@ -30,7 +30,19 @@
 
 ---
 
-## 🆕 Recent Updates (Last 2 Days)
+## 🆕 Recent Updates (Last 30 Days)
+
+### 📅 12 Nov 2026 (Thu) — 1 NEW Entry Added 🚨
+
+| Company | Role | Stipend / CTC | Location |
+|---|---|---|---|
+| **[2027 Batch — All Openings Above ₹12 LPA](All_2027_Batch_HighPay_12LPA_India_2026-11-12/)** 🆕 | **High-pay brief — 23 live-verified roles above ₹12 LPA** (16 full-time + 7 internship/PPO) + 75 top-company early-career portals + 16 mass-recruit drives with live status | **₹14–₹50 LPA** | Pan-India |
+
+> 🔥 **TCS iON NQT's November cycle closes on 12 Nov 2026 — that is today.** Test 24 Nov, ₹999 (IT) / ₹599 (non-IT), open to **2022–2028 pass-outs in any stream**. Cheap, and the score is read by other employers too.
+
+> 🧭 **The honest finding, stated up front: the median fresher package in India is ₹3.0–4.5 LPA**, and the entire mass-recruit surface (TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini, HCLTech, LTIMindtree) pays **₹3.5–9 LPA** — **none of it clears ₹12 LPA**. Only **five** mass-recruit tracks do, and one of them is a trap: **Infosys SP L2 (₹16 LPA) and SP L3 (₹21 LPA) are batch-locked to 2024 / 2025 / 2026** and a 2027 batch cannot apply. The four that do work for a 2027 batch are **Salesforce AMTS (₹15–20 LPA), Cisco Code with Cisco (₹14–23 LPA), Qualcomm 2027 Campus Hire (₹16–20 LPA)** and **GE Vernova Digital Tech (₹14–18 LPA)**. Everything above the line lives in **product companies** — Google, Microsoft, Amazon, Adobe, NVIDIA, Stripe, Meta, Salesforce, Cisco, plus Razorpay / Swiggy / PhonePe / CRED / Dream11 — and those recruit **only the current graduating cohort**.
+
+> 🔍 **Everything was re-verified live on 12 Nov 2026, not carried over.** **LinkedIn sweep: 8,010 unique job IDs across 2,505 companies** (923 keyword × city × filter queries, plus a title-focused fresher/2027 sweep of 420 more), and **760 full job descriptions fetched and parsed** for package figures before every link was re-verified live. **Wipro Elite NTH is marked “Unverified”, not open or closed** — the official page still carries no NTH section, and trackers contradict each other.
 
 ### 📅 25 Oct 2026 (Sun) — 3 NEW Entries Added 🚨
 
@@ -164,7 +176,7 @@
 
 ## 📂 What's Inside
 
-This repository contains **92+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
+This repository contains **93+ curated entries** organized into individual folders, each with a detailed `README.md`. Every README follows the same template:
 
 - ✅ Company + role + location + Job ID
 - ✅ **Eligibility** (Bachelor's + 0 yrs, 1-3 yrs, etc.)
@@ -242,6 +254,7 @@ This repository contains **92+ curated entries** organized into individual folde
 | `All_2028_Batch_ActiveJobOpenings_India_2026-10-08/` | Updated 2028 batch sweep |
 | `All_2028_Batch_Openings_India_BTechCS_2026-10-25/` 🆕 | **Full 2028-batch brief — 713 openings** (625 LinkedIn jobs + 21 aggregator internships + 67 hackathons), tiered FTE / PPO / PPI / internship / hackathon |
 | `All_2027_Batch_Openings_India_BTechCS_2026-10-25/` 🆕 | **Full 2027-batch brief — 1,256 openings** (1,156 LinkedIn jobs + 20 aggregator internships + 67 hackathons) + **Section 0: 13 campus mass-recruit drives with live status** |
+| `All_2027_Batch_HighPay_12LPA_India_2026-11-12/` 🆕 | **2027-batch roles above ₹12 LPA — 23 live-verified roles** + 75 top-company early-career portals + 16 mass-recruit drives status-checked 12 Nov 2026 |
 | `All_HighStipend_Internships_PPO_12LPA_India_2026-10-07/` | Internships with ≥₹12 LPA PPO |
 | `4_Active_Internships_Mixed_Tech_BatchList_India_2026-10-05/` | Ixigo + Rapido + Swish bundle |
 | `6_ActiveJobs_FresherIntern_Bundle_Bengaluru_2026-10-07/` | Evolute + StartupMeu + Weekday + Lanmea + Smytten + HPE bundle |
@@ -324,15 +337,16 @@ Every entry goes through this filter:
 
 | Metric | Value |
 |---|---|
-| Total curated entries | **92+** |
+| Total curated entries | **93+** |
 | Companies covered | **40+** |
 | Internship roles | **36+** |
 | Full-time roles (FTE) | **14+** |
 | Hackathons / competitions | **146+** |
 | PPI / challenge pathways | **4+** |
-| Master lists / bundles | **8** |
-| **Openings indexed inside master briefs** | **1,969** (713 for the 2028 batch + 1,256 for the 2027 batch) |
-| **Campus mass-recruit drives tracked live** | **13** (2027-batch brief) |
+| Master lists / bundles | **9** |
+| **Openings indexed inside master briefs** | **2,069** (713 for the 2028 batch + 1,256 for the 2027 batch + 23 above ₹12 LPA) |
+| **Campus mass-recruit drives tracked live** | **16** (13 in the 2027-batch brief + 16 re-verified in the high-pay brief) |
+| **Roles above ₹12 LPA tracked and link-verified** | **23** |
 | Batch coverage | **2026 / 2027 / 2028 / 2029** |
 | Geography | Bengaluru, Hyderabad, Chennai, Mumbai, Delhi NCR, Pan-India, Remote, US |
 
@@ -400,7 +414,7 @@ This is a personal knowledge-base repo. Feel free to fork, share, and reuse. **N
 
 ---
 
-> **Last updated:** 25 Oct 2026, 9:47 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
+> **Last updated:** 12 Nov 2026, 2:39 PM IST (🇮🇳) · **Next sweep:** Rolling (new entries added as opportunities are discovered)
 >
 > 💡 **Tip for placement season:** Run a `git pull` weekly + check `All_Active_*_MasterList_India_*.md` for batch-targeted sweeps.
 
